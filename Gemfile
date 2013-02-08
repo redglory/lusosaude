@@ -33,6 +33,8 @@ gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise'
 #gem 'spree_rdr_theme', :git => 'git://github.com/spree/spree_rdr_theme.git'
 #gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
 
+# I18n
+gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
