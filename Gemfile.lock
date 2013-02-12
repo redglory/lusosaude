@@ -236,6 +236,7 @@ GEM
       railties (>= 3.0)
     warden (1.2.1)
       rack (>= 1.0)
+    yaml_db (0.2.3)
 
 PLATFORMS
   ruby
@@ -250,3 +251,4 @@ DEPENDENCIES
   spree_i18n!
   sqlite3
   uglifier (>= 1.0.3)
+  yaml_db

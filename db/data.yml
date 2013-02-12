@@ -1,0 +1,6191 @@
+
+---
+spree_assets:
+  columns:
+  - id
+  - viewable_id
+  - viewable_type
+  - attachment_width
+  - attachment_height
+  - attachment_file_size
+  - position
+  - attachment_content_type
+  - attachment_file_name
+  - type
+  - attachment_updated_at
+  - alt
+  records: 
+  - - 2
+    - 1
+    - Spree::Variant
+    - 500
+    - 500
+    - 37809
+    - 1
+    - image/jpeg
+    - amyloban__30464.1354193396.500.500.jpg
+    - Spree::Image
+    - '2013-02-04 22:47:15.780737'
+    - Amyloban 180 comp.
+  - - 3
+    - 2
+    - Spree::Variant
+    - 279
+    - 500
+    - 43892
+    - 1
+    - image/jpeg
+    - Breast-Mate-120comp.jpg
+    - Spree::Image
+    - '2013-02-08 14:59:10.626540'
+    - Breast-Mate, 120 comp.
+  - - 4
+    - 3
+    - Spree::Variant
+    - 277
+    - 500
+    - 31926
+    - 1
+    - image/jpeg
+    - D-fraction-120-comp.jpg
+    - Spree::Image
+    - '2013-02-08 18:41:40.036490'
+    - Grifron D-Fraction, 120 cáps.
+  - - 6
+    - 5
+    - Spree::Variant
+    - 315
+    - 315
+    - 21652
+    - 1
+    - image/jpeg
+    - tmd-fraction-120-comp.jpeg
+    - Spree::Image
+    - '2013-02-08 15:05:15.508890'
+    - Grifron TMD-Fraction, 120 comp.
+  - - 7
+    - 6
+    - Spree::Variant
+    - 1600
+    - 1600
+    - 121343
+    - 1
+    - image/jpeg
+    - pro-d-fraction-60-ml.jpg
+    - Spree::Image
+    - '2013-02-08 15:07:57.291132'
+    - Grifron Pro D-Fraction ext. líq., 60ml
+  - - 8
+    - 7
+    - Spree::Variant
+    - 400
+    - 400
+    - 17713
+    - 1
+    - image/jpeg
+    - prost-mate-120-comp.jpg
+    - Spree::Image
+    - '2013-02-08 15:09:20.834498'
+    - Prost-Mate, 120 comp.
+  - - 9
+    - 8
+    - Spree::Variant
+    - 270
+    - 270
+    - 21584
+    - 1
+    - image/jpeg
+    - mushroom-emperors-120-comp.jpg
+    - Spree::Image
+    - '2013-02-08 23:00:50.021378'
+    - Mushroom Emperors, 120 comp.
+  - - 10
+    - 9
+    - Spree::Variant
+    - 276
+    - 500
+    - 35871
+    - 1
+    - image/jpeg
+    - Super-Lions-Mane-120-comp.jpg
+    - Spree::Image
+    - '2013-02-08 15:12:50.265482'
+    - Super Lion's Mane, 120 comp.
+  - - 11
+    - 10
+    - Spree::Variant
+    - 270
+    - 500
+    - 28731
+    - 1
+    - image/jpeg
+    - Super-Reishi-120-comp.jpg
+    - Spree::Image
+    - '2013-02-08 15:14:14.621392'
+    - Super Reishi, 120 comp.
+  - - 12
+    - 11
+    - Spree::Variant
+    - 269
+    - 500
+    - 38825
+    - 1
+    - image/jpeg
+    - Super-Shiitake-120-comp.jpg
+    - Spree::Image
+    - '2013-02-08 15:15:39.699086'
+    - Super Shiitake, 120 comp.
+  - - 13
+    - 12
+    - Spree::Variant
+    - 272
+    - 500
+    - 41763
+    - 1
+    - image/jpeg
+    - Super-Cordyceps-120-comp.jpg
+    - Spree::Image
+    - '2013-02-08 15:16:50.487027'
+    - Super Cordyceps, 120 comp.
+  - - 14
+    - 13
+    - Spree::Variant
+    - 1200
+    - 1500
+    - 442422
+    - 1
+    - image/jpeg
+    - d-fraction-extracto-animais-60-ml.jpg
+    - Spree::Image
+    - '2013-02-08 15:18:41.190114'
+    - Ext. Líquido Maitake D-Fraction para animais
+  - - 15
+    - 14
+    - Spree::Variant
+    - 472
+    - 472
+    - 41906
+    - 1
+    - image/gif
+    - cholestsafe-90-caps.gif
+    - Spree::Image
+    - '2013-02-08 16:47:29.390321'
+    - Cholestsafe, 90 cáps.
+  - - 16
+    - 15
+    - Spree::Variant
+    - 678
+    - 1000
+    - 178262
+    - 1
+    - image/jpeg
+    - Aangamik-DMG-60-comp.jpg
+    - Spree::Image
+    - '2013-02-08 16:49:04.758381'
+    - Aaangamik-DMG, 60 comp. sub-linguais
+  - - 17
+    - 16
+    - Spree::Variant
+    - 547
+    - 1000
+    - 143266
+    - 1
+    - image/jpeg
+    - Aller-DMG-60-comp.jpg
+    - Spree::Image
+    - '2013-02-08 16:50:25.198713'
+    - Aller-DMG, 60 comp. entéricos
+  - - 18
+    - 17
+    - Spree::Variant
+    - 200
+    - 500
+    - 26807
+    - 1
+    - image/jpeg
+    - Behavior-Balance-DMG-Liquid-360ml.jpg
+    - Spree::Image
+    - '2013-02-08 16:52:16.250133'
+    - Behaviour Balance DMG líquido, 360ml
+  - - 19
+    - 18
+    - Spree::Variant
+    - 276
+    - 500
+    - 53820
+    - 1
+    - image/jpeg
+    - Fibro-DMG-90-comp.jpg
+    - Spree::Image
+    - '2013-02-08 16:54:51.316157'
+    - Fibro-DMG, 90 cáps. entéricas
+  - - 20
+    - 19
+    - Spree::Variant
+    - 279
+    - 500
+    - 38150
+    - 1
+    - image/jpeg
+    - Neuro-DMG-90-comp.jpg
+    - Spree::Image
+    - '2013-02-08 16:56:15.718969'
+    - Neuro-DMG, 90 comp. entéricos
+  - - 21
+    - 20
+    - Spree::Variant
+    - 244
+    - 500
+    - 31360
+    - 1
+    - image/jpeg
+    - Liquid-DMG-60ml.jpg
+    - Spree::Image
+    - '2013-02-08 16:57:56.282371'
+    - DMG - líquido, 60ml
+  - - 22
+    - 21
+    - Spree::Variant
+    - 243
+    - 500
+    - 34845
+    - 1
+    - image/jpeg
+    - OsteoActiv-150-caps.jpg
+    - Spree::Image
+    - '2013-02-08 16:59:46.041950'
+    - Osteoactiv, 150 cáps.
+  - - 23
+    - 22
+    - Spree::Variant
+    - 274
+    - 500
+    - 31247
+    - 1
+    - image/jpeg
+    - sx-fraction-90-comp.jpg
+    - Spree::Image
+    - '2013-02-08 19:22:48.197332'
+    - Grifron SX-Fraction, 90 comp.
+
+---
+spree_calculators:
+  columns:
+  - id
+  - type
+  - calculable_id
+  - calculable_type
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Spree::Calculator::DefaultTax
+    - 1
+    - Spree::TaxRate
+    - '2013-02-04 19:38:54.429982'
+    - '2013-02-04 19:38:54.429982'
+  - - 2
+    - Spree::Calculator::DefaultTax
+    - 2
+    - Spree::TaxRate
+    - '2013-02-04 19:39:26.929804'
+    - '2013-02-04 19:39:26.929804'
+  - - 5
+    - Spree::Calculator::FlatRate
+    - 1
+    - Spree::ShippingMethod
+    - '2013-02-04 20:51:40.877532'
+    - '2013-02-04 20:51:40.877532'
+  - - 6
+    - Spree::Calculator::FlatRate
+    - 2
+    - Spree::ShippingMethod
+    - '2013-02-04 20:52:44.631957'
+    - '2013-02-04 20:52:44.631957'
+
+---
+spree_countries:
+  columns:
+  - id
+  - iso_name
+  - iso
+  - iso3
+  - name
+  - numcode
+  - states_required
+  records: 
+  - - 1
+    - AFGHANISTAN
+    - AF
+    - AFG
+    - Afghanistan
+    - 4
+    - true
+  - - 2
+    - ALBANIA
+    - AL
+    - ALB
+    - Albania
+    - 8
+    - true
+  - - 3
+    - ALGERIA
+    - DZ
+    - DZA
+    - Algeria
+    - 12
+    - true
+  - - 4
+    - AMERICAN SAMOA
+    - AS
+    - ASM
+    - American Samoa
+    - 16
+    - true
+  - - 5
+    - ANDORRA
+    - AD
+    - AND
+    - Andorra
+    - 20
+    - true
+  - - 6
+    - ANGOLA
+    - AO
+    - AGO
+    - Angola
+    - 24
+    - true
+  - - 7
+    - ANGUILLA
+    - AI
+    - AIA
+    - Anguilla
+    - 660
+    - true
+  - - 8
+    - ANTIGUA AND BARBUDA
+    - AG
+    - ATG
+    - Antigua and Barbuda
+    - 28
+    - true
+  - - 9
+    - ARGENTINA
+    - AR
+    - ARG
+    - Argentina
+    - 32
+    - true
+  - - 10
+    - ARMENIA
+    - AM
+    - ARM
+    - Armenia
+    - 51
+    - true
+  - - 11
+    - ARUBA
+    - AW
+    - ABW
+    - Aruba
+    - 533
+    - true
+  - - 12
+    - AUSTRALIA
+    - AU
+    - AUS
+    - Australia
+    - 36
+    - true
+  - - 13
+    - AUSTRIA
+    - AT
+    - AUT
+    - Austria
+    - 40
+    - true
+  - - 14
+    - AZERBAIJAN
+    - AZ
+    - AZE
+    - Azerbaijan
+    - 31
+    - true
+  - - 15
+    - BAHAMAS
+    - BS
+    - BHS
+    - Bahamas
+    - 44
+    - true
+  - - 16
+    - BAHRAIN
+    - BH
+    - BHR
+    - Bahrain
+    - 48
+    - true
+  - - 17
+    - BANGLADESH
+    - BD
+    - BGD
+    - Bangladesh
+    - 50
+    - true
+  - - 18
+    - BARBADOS
+    - BB
+    - BRB
+    - Barbados
+    - 52
+    - true
+  - - 19
+    - BELARUS
+    - BY
+    - BLR
+    - Belarus
+    - 112
+    - true
+  - - 20
+    - BELGIUM
+    - BE
+    - BEL
+    - Belgium
+    - 56
+    - true
+  - - 21
+    - BELIZE
+    - BZ
+    - BLZ
+    - Belize
+    - 84
+    - true
+  - - 22
+    - BENIN
+    - BJ
+    - BEN
+    - Benin
+    - 204
+    - true
+  - - 23
+    - BERMUDA
+    - BM
+    - BMU
+    - Bermuda
+    - 60
+    - true
+  - - 24
+    - BHUTAN
+    - BT
+    - BTN
+    - Bhutan
+    - 64
+    - true
+  - - 25
+    - BOLIVIA
+    - BO
+    - BOL
+    - Bolivia
+    - 68
+    - true
+  - - 26
+    - BOSNIA AND HERZEGOVINA
+    - BA
+    - BIH
+    - Bosnia and Herzegovina
+    - 70
+    - true
+  - - 27
+    - BOTSWANA
+    - BW
+    - BWA
+    - Botswana
+    - 72
+    - true
+  - - 28
+    - BRAZIL
+    - BR
+    - BRA
+    - Brazil
+    - 76
+    - true
+  - - 29
+    - BRUNEI DARUSSALAM
+    - BN
+    - BRN
+    - Brunei Darussalam
+    - 96
+    - true
+  - - 30
+    - BULGARIA
+    - BG
+    - BGR
+    - Bulgaria
+    - 100
+    - true
+  - - 31
+    - BURKINA FASO
+    - BF
+    - BFA
+    - Burkina Faso
+    - 854
+    - true
+  - - 32
+    - BURUNDI
+    - BI
+    - BDI
+    - Burundi
+    - 108
+    - true
+  - - 33
+    - CAMBODIA
+    - KH
+    - KHM
+    - Cambodia
+    - 116
+    - true
+  - - 34
+    - CAMEROON
+    - CM
+    - CMR
+    - Cameroon
+    - 120
+    - true
+  - - 35
+    - CANADA
+    - CA
+    - CAN
+    - Canada
+    - 124
+    - true
+  - - 36
+    - CAPE VERDE
+    - CV
+    - CPV
+    - Cape Verde
+    - 132
+    - true
+  - - 37
+    - CAYMAN ISLANDS
+    - KY
+    - CYM
+    - Cayman Islands
+    - 136
+    - true
+  - - 38
+    - CENTRAL AFRICAN REPUBLIC
+    - CF
+    - CAF
+    - Central African Republic
+    - 140
+    - true
+  - - 39
+    - CHAD
+    - TD
+    - TCD
+    - Chad
+    - 148
+    - true
+  - - 40
+    - CHILE
+    - CL
+    - CHL
+    - Chile
+    - 152
+    - true
+  - - 41
+    - CHINA
+    - CN
+    - CHN
+    - China
+    - 156
+    - true
+  - - 42
+    - COLOMBIA
+    - CO
+    - COL
+    - Colombia
+    - 170
+    - true
+  - - 43
+    - COMOROS
+    - KM
+    - COM
+    - Comoros
+    - 174
+    - true
+  - - 44
+    - CONGO
+    - CG
+    - COG
+    - Congo
+    - 178
+    - true
+  - - 45
+    - CONGO, THE DEMOCRATIC REPUBLIC OF THE
+    - CD
+    - COD
+    - Congo, the Democratic Republic of the
+    - 180
+    - true
+  - - 46
+    - COOK ISLANDS
+    - CK
+    - COK
+    - Cook Islands
+    - 184
+    - true
+  - - 47
+    - COSTA RICA
+    - CR
+    - CRI
+    - Costa Rica
+    - 188
+    - true
+  - - 48
+    - COTE D'IVOIRE
+    - CI
+    - CIV
+    - Cote D'Ivoire
+    - 384
+    - true
+  - - 49
+    - CROATIA
+    - HR
+    - HRV
+    - Croatia
+    - 191
+    - true
+  - - 50
+    - CUBA
+    - CU
+    - CUB
+    - Cuba
+    - 192
+    - true
+  - - 51
+    - CYPRUS
+    - CY
+    - CYP
+    - Cyprus
+    - 196
+    - true
+  - - 52
+    - CZECH REPUBLIC
+    - CZ
+    - CZE
+    - Czech Republic
+    - 203
+    - true
+  - - 53
+    - DENMARK
+    - DK
+    - DNK
+    - Denmark
+    - 208
+    - true
+  - - 54
+    - DJIBOUTI
+    - DJ
+    - DJI
+    - Djibouti
+    - 262
+    - true
+  - - 55
+    - DOMINICA
+    - DM
+    - DMA
+    - Dominica
+    - 212
+    - true
+  - - 56
+    - DOMINICAN REPUBLIC
+    - DO
+    - DOM
+    - Dominican Republic
+    - 214
+    - true
+  - - 57
+    - ECUADOR
+    - EC
+    - ECU
+    - Ecuador
+    - 218
+    - true
+  - - 58
+    - EGYPT
+    - EG
+    - EGY
+    - Egypt
+    - 818
+    - true
+  - - 59
+    - EL SALVADOR
+    - SV
+    - SLV
+    - El Salvador
+    - 222
+    - true
+  - - 60
+    - EQUATORIAL GUINEA
+    - GQ
+    - GNQ
+    - Equatorial Guinea
+    - 226
+    - true
+  - - 61
+    - ERITREA
+    - ER
+    - ERI
+    - Eritrea
+    - 232
+    - true
+  - - 62
+    - ESTONIA
+    - EE
+    - EST
+    - Estonia
+    - 233
+    - true
+  - - 63
+    - ETHIOPIA
+    - ET
+    - ETH
+    - Ethiopia
+    - 231
+    - true
+  - - 64
+    - FALKLAND ISLANDS (MALVINAS)
+    - FK
+    - FLK
+    - Falkland Islands (Malvinas)
+    - 238
+    - true
+  - - 65
+    - FAROE ISLANDS
+    - FO
+    - FRO
+    - Faroe Islands
+    - 234
+    - true
+  - - 66
+    - FIJI
+    - FJ
+    - FJI
+    - Fiji
+    - 242
+    - true
+  - - 67
+    - FINLAND
+    - FI
+    - FIN
+    - Finland
+    - 246
+    - true
+  - - 68
+    - FRANCE
+    - FR
+    - FRA
+    - France
+    - 250
+    - true
+  - - 69
+    - FRENCH GUIANA
+    - GF
+    - GUF
+    - French Guiana
+    - 254
+    - true
+  - - 70
+    - FRENCH POLYNESIA
+    - PF
+    - PYF
+    - French Polynesia
+    - 258
+    - true
+  - - 71
+    - GABON
+    - GA
+    - GAB
+    - Gabon
+    - 266
+    - true
+  - - 72
+    - GAMBIA
+    - GM
+    - GMB
+    - Gambia
+    - 270
+    - true
+  - - 73
+    - GEORGIA
+    - GE
+    - GEO
+    - Georgia
+    - 268
+    - true
+  - - 74
+    - GERMANY
+    - DE
+    - DEU
+    - Germany
+    - 276
+    - true
+  - - 75
+    - GHANA
+    - GH
+    - GHA
+    - Ghana
+    - 288
+    - true
+  - - 76
+    - GIBRALTAR
+    - GI
+    - GIB
+    - Gibraltar
+    - 292
+    - true
+  - - 77
+    - GREECE
+    - GR
+    - GRC
+    - Greece
+    - 300
+    - true
+  - - 78
+    - GREENLAND
+    - GL
+    - GRL
+    - Greenland
+    - 304
+    - true
+  - - 79
+    - GRENADA
+    - GD
+    - GRD
+    - Grenada
+    - 308
+    - true
+  - - 80
+    - GUADELOUPE
+    - GP
+    - GLP
+    - Guadeloupe
+    - 312
+    - true
+  - - 81
+    - GUAM
+    - GU
+    - GUM
+    - Guam
+    - 316
+    - true
+  - - 82
+    - GUATEMALA
+    - GT
+    - GTM
+    - Guatemala
+    - 320
+    - true
+  - - 83
+    - GUINEA
+    - GN
+    - GIN
+    - Guinea
+    - 324
+    - true
+  - - 84
+    - GUINEA-BISSAU
+    - GW
+    - GNB
+    - Guinea-Bissau
+    - 624
+    - true
+  - - 85
+    - GUYANA
+    - GY
+    - GUY
+    - Guyana
+    - 328
+    - true
+  - - 86
+    - HAITI
+    - HT
+    - HTI
+    - Haiti
+    - 332
+    - true
+  - - 87
+    - HOLY SEE (VATICAN CITY STATE)
+    - VA
+    - VAT
+    - Holy See (Vatican City State)
+    - 336
+    - true
+  - - 88
+    - HONDURAS
+    - HN
+    - HND
+    - Honduras
+    - 340
+    - true
+  - - 89
+    - HONG KONG
+    - HK
+    - HKG
+    - Hong Kong
+    - 344
+    - true
+  - - 90
+    - HUNGARY
+    - HU
+    - HUN
+    - Hungary
+    - 348
+    - true
+  - - 91
+    - ICELAND
+    - IS
+    - ISL
+    - Iceland
+    - 352
+    - true
+  - - 92
+    - INDIA
+    - IN
+    - IND
+    - India
+    - 356
+    - true
+  - - 93
+    - INDONESIA
+    - ID
+    - IDN
+    - Indonesia
+    - 360
+    - true
+  - - 94
+    - IRAN, ISLAMIC REPUBLIC OF
+    - IR
+    - IRN
+    - Iran, Islamic Republic of
+    - 364
+    - true
+  - - 95
+    - IRAQ
+    - IQ
+    - IRQ
+    - Iraq
+    - 368
+    - true
+  - - 96
+    - IRELAND
+    - IE
+    - IRL
+    - Ireland
+    - 372
+    - true
+  - - 97
+    - ISRAEL
+    - IL
+    - ISR
+    - Israel
+    - 376
+    - true
+  - - 98
+    - ITALY
+    - IT
+    - ITA
+    - Italy
+    - 380
+    - true
+  - - 99
+    - JAMAICA
+    - JM
+    - JAM
+    - Jamaica
+    - 388
+    - true
+  - - 100
+    - JAPAN
+    - JP
+    - JPN
+    - Japan
+    - 392
+    - true
+  - - 101
+    - JORDAN
+    - JO
+    - JOR
+    - Jordan
+    - 400
+    - true
+  - - 102
+    - KAZAKHSTAN
+    - KZ
+    - KAZ
+    - Kazakhstan
+    - 398
+    - true
+  - - 103
+    - KENYA
+    - KE
+    - KEN
+    - Kenya
+    - 404
+    - true
+  - - 104
+    - KIRIBATI
+    - KI
+    - KIR
+    - Kiribati
+    - 296
+    - true
+  - - 105
+    - KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+    - KP
+    - PRK
+    - North Korea
+    - 408
+    - true
+  - - 106
+    - KOREA, REPUBLIC OF
+    - KR
+    - KOR
+    - South Korea
+    - 410
+    - true
+  - - 107
+    - KUWAIT
+    - KW
+    - KWT
+    - Kuwait
+    - 414
+    - true
+  - - 108
+    - KYRGYZSTAN
+    - KG
+    - KGZ
+    - Kyrgyzstan
+    - 417
+    - true
+  - - 109
+    - LAO PEOPLE'S DEMOCRATIC REPUBLIC
+    - LA
+    - LAO
+    - Lao People's Democratic Republic
+    - 418
+    - true
+  - - 110
+    - LATVIA
+    - LV
+    - LVA
+    - Latvia
+    - 428
+    - true
+  - - 111
+    - LEBANON
+    - LB
+    - LBN
+    - Lebanon
+    - 422
+    - true
+  - - 112
+    - LESOTHO
+    - LS
+    - LSO
+    - Lesotho
+    - 426
+    - true
+  - - 113
+    - LIBERIA
+    - LR
+    - LBR
+    - Liberia
+    - 430
+    - true
+  - - 114
+    - LIBYAN ARAB JAMAHIRIYA
+    - LY
+    - LBY
+    - Libyan Arab Jamahiriya
+    - 434
+    - true
+  - - 115
+    - LIECHTENSTEIN
+    - LI
+    - LIE
+    - Liechtenstein
+    - 438
+    - true
+  - - 116
+    - LITHUANIA
+    - LT
+    - LTU
+    - Lithuania
+    - 440
+    - true
+  - - 117
+    - LUXEMBOURG
+    - LU
+    - LUX
+    - Luxembourg
+    - 442
+    - true
+  - - 118
+    - MACAO
+    - MO
+    - MAC
+    - Macao
+    - 446
+    - true
+  - - 119
+    - MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF
+    - MK
+    - MKD
+    - Macedonia
+    - 807
+    - true
+  - - 120
+    - MADAGASCAR
+    - MG
+    - MDG
+    - Madagascar
+    - 450
+    - true
+  - - 121
+    - MALAWI
+    - MW
+    - MWI
+    - Malawi
+    - 454
+    - true
+  - - 122
+    - MALAYSIA
+    - MY
+    - MYS
+    - Malaysia
+    - 458
+    - true
+  - - 123
+    - MALDIVES
+    - MV
+    - MDV
+    - Maldives
+    - 462
+    - true
+  - - 124
+    - MALI
+    - ML
+    - MLI
+    - Mali
+    - 466
+    - true
+  - - 125
+    - MALTA
+    - MT
+    - MLT
+    - Malta
+    - 470
+    - true
+  - - 126
+    - MARSHALL ISLANDS
+    - MH
+    - MHL
+    - Marshall Islands
+    - 584
+    - true
+  - - 127
+    - MARTINIQUE
+    - MQ
+    - MTQ
+    - Martinique
+    - 474
+    - true
+  - - 128
+    - MAURITANIA
+    - MR
+    - MRT
+    - Mauritania
+    - 478
+    - true
+  - - 129
+    - MAURITIUS
+    - MU
+    - MUS
+    - Mauritius
+    - 480
+    - true
+  - - 130
+    - MEXICO
+    - MX
+    - MEX
+    - Mexico
+    - 484
+    - true
+  - - 131
+    - MICRONESIA, FEDERATED STATES OF
+    - FM
+    - FSM
+    - Micronesia, Federated States of
+    - 583
+    - true
+  - - 132
+    - MOLDOVA, REPUBLIC OF
+    - MD
+    - MDA
+    - Moldova, Republic of
+    - 498
+    - true
+  - - 133
+    - MONACO
+    - MC
+    - MCO
+    - Monaco
+    - 492
+    - true
+  - - 134
+    - MONGOLIA
+    - MN
+    - MNG
+    - Mongolia
+    - 496
+    - true
+  - - 135
+    - MONTSERRAT
+    - MS
+    - MSR
+    - Montserrat
+    - 500
+    - true
+  - - 136
+    - MOROCCO
+    - MA
+    - MAR
+    - Morocco
+    - 504
+    - true
+  - - 137
+    - MOZAMBIQUE
+    - MZ
+    - MOZ
+    - Mozambique
+    - 508
+    - true
+  - - 138
+    - MYANMAR
+    - MM
+    - MMR
+    - Myanmar
+    - 104
+    - true
+  - - 139
+    - NAMIBIA
+    - NA
+    - NAM
+    - Namibia
+    - 516
+    - true
+  - - 140
+    - NAURU
+    - NR
+    - NRU
+    - Nauru
+    - 520
+    - true
+  - - 141
+    - NEPAL
+    - NP
+    - NPL
+    - Nepal
+    - 524
+    - true
+  - - 142
+    - NETHERLANDS
+    - NL
+    - NLD
+    - Netherlands
+    - 528
+    - true
+  - - 143
+    - NETHERLANDS ANTILLES
+    - AN
+    - ANT
+    - Netherlands Antilles
+    - 530
+    - true
+  - - 144
+    - NEW CALEDONIA
+    - NC
+    - NCL
+    - New Caledonia
+    - 540
+    - true
+  - - 145
+    - NEW ZEALAND
+    - NZ
+    - NZL
+    - New Zealand
+    - 554
+    - true
+  - - 146
+    - NICARAGUA
+    - NI
+    - NIC
+    - Nicaragua
+    - 558
+    - true
+  - - 147
+    - NIGER
+    - NE
+    - NER
+    - Niger
+    - 562
+    - true
+  - - 148
+    - NIGERIA
+    - NG
+    - NGA
+    - Nigeria
+    - 566
+    - true
+  - - 149
+    - NIUE
+    - NU
+    - NIU
+    - Niue
+    - 570
+    - true
+  - - 150
+    - NORFOLK ISLAND
+    - NF
+    - NFK
+    - Norfolk Island
+    - 574
+    - true
+  - - 151
+    - NORTHERN MARIANA ISLANDS
+    - MP
+    - MNP
+    - Northern Mariana Islands
+    - 580
+    - true
+  - - 152
+    - NORWAY
+    - 'NO'
+    - NOR
+    - Norway
+    - 578
+    - true
+  - - 153
+    - OMAN
+    - OM
+    - OMN
+    - Oman
+    - 512
+    - true
+  - - 154
+    - PAKISTAN
+    - PK
+    - PAK
+    - Pakistan
+    - 586
+    - true
+  - - 155
+    - PALAU
+    - PW
+    - PLW
+    - Palau
+    - 585
+    - true
+  - - 156
+    - PANAMA
+    - PA
+    - PAN
+    - Panama
+    - 591
+    - true
+  - - 157
+    - PAPUA NEW GUINEA
+    - PG
+    - PNG
+    - Papua New Guinea
+    - 598
+    - true
+  - - 158
+    - PARAGUAY
+    - PY
+    - PRY
+    - Paraguay
+    - 600
+    - true
+  - - 159
+    - PERU
+    - PE
+    - PER
+    - Peru
+    - 604
+    - true
+  - - 160
+    - PHILIPPINES
+    - PH
+    - PHL
+    - Philippines
+    - 608
+    - true
+  - - 161
+    - PITCAIRN
+    - PN
+    - PCN
+    - Pitcairn
+    - 612
+    - true
+  - - 162
+    - POLAND
+    - PL
+    - POL
+    - Poland
+    - 616
+    - true
+  - - 163
+    - PORTUGAL
+    - PT
+    - PRT
+    - Portugal
+    - 620
+    - true
+  - - 164
+    - PUERTO RICO
+    - PR
+    - PRI
+    - Puerto Rico
+    - 630
+    - true
+  - - 165
+    - QATAR
+    - QA
+    - QAT
+    - Qatar
+    - 634
+    - true
+  - - 166
+    - REUNION
+    - RE
+    - REU
+    - Reunion
+    - 638
+    - true
+  - - 167
+    - ROMANIA
+    - RO
+    - ROM
+    - Romania
+    - 642
+    - true
+  - - 168
+    - RUSSIAN FEDERATION
+    - RU
+    - RUS
+    - Russian Federation
+    - 643
+    - true
+  - - 169
+    - RWANDA
+    - RW
+    - RWA
+    - Rwanda
+    - 646
+    - true
+  - - 170
+    - SAINT HELENA
+    - SH
+    - SHN
+    - Saint Helena
+    - 654
+    - true
+  - - 171
+    - SAINT KITTS AND NEVIS
+    - KN
+    - KNA
+    - Saint Kitts and Nevis
+    - 659
+    - true
+  - - 172
+    - SAINT LUCIA
+    - LC
+    - LCA
+    - Saint Lucia
+    - 662
+    - true
+  - - 173
+    - SAINT PIERRE AND MIQUELON
+    - PM
+    - SPM
+    - Saint Pierre and Miquelon
+    - 666
+    - true
+  - - 174
+    - SAINT VINCENT AND THE GRENADINES
+    - VC
+    - VCT
+    - Saint Vincent and the Grenadines
+    - 670
+    - true
+  - - 175
+    - SAMOA
+    - WS
+    - WSM
+    - Samoa
+    - 882
+    - true
+  - - 176
+    - SAN MARINO
+    - SM
+    - SMR
+    - San Marino
+    - 674
+    - true
+  - - 177
+    - SAO TOME AND PRINCIPE
+    - ST
+    - STP
+    - Sao Tome and Principe
+    - 678
+    - true
+  - - 178
+    - SAUDI ARABIA
+    - SA
+    - SAU
+    - Saudi Arabia
+    - 682
+    - true
+  - - 179
+    - SENEGAL
+    - SN
+    - SEN
+    - Senegal
+    - 686
+    - true
+  - - 180
+    - SEYCHELLES
+    - SC
+    - SYC
+    - Seychelles
+    - 690
+    - true
+  - - 181
+    - SIERRA LEONE
+    - SL
+    - SLE
+    - Sierra Leone
+    - 694
+    - true
+  - - 182
+    - SINGAPORE
+    - SG
+    - SGP
+    - Singapore
+    - 702
+    - true
+  - - 183
+    - SLOVAKIA
+    - SK
+    - SVK
+    - Slovakia
+    - 703
+    - true
+  - - 184
+    - SLOVENIA
+    - SI
+    - SVN
+    - Slovenia
+    - 705
+    - true
+  - - 185
+    - SOLOMON ISLANDS
+    - SB
+    - SLB
+    - Solomon Islands
+    - 90
+    - true
+  - - 186
+    - SOMALIA
+    - SO
+    - SOM
+    - Somalia
+    - 706
+    - true
+  - - 187
+    - SOUTH AFRICA
+    - ZA
+    - ZAF
+    - South Africa
+    - 710
+    - true
+  - - 188
+    - SPAIN
+    - ES
+    - ESP
+    - Spain
+    - 724
+    - true
+  - - 189
+    - SRI LANKA
+    - LK
+    - LKA
+    - Sri Lanka
+    - 144
+    - true
+  - - 190
+    - SUDAN
+    - SD
+    - SDN
+    - Sudan
+    - 736
+    - true
+  - - 191
+    - SURINAME
+    - SR
+    - SUR
+    - Suriname
+    - 740
+    - true
+  - - 192
+    - SVALBARD AND JAN MAYEN
+    - SJ
+    - SJM
+    - Svalbard and Jan Mayen
+    - 744
+    - true
+  - - 193
+    - SWAZILAND
+    - SZ
+    - SWZ
+    - Swaziland
+    - 748
+    - true
+  - - 194
+    - SWEDEN
+    - SE
+    - SWE
+    - Sweden
+    - 752
+    - true
+  - - 195
+    - SWITZERLAND
+    - CH
+    - CHE
+    - Switzerland
+    - 756
+    - true
+  - - 196
+    - SYRIAN ARAB REPUBLIC
+    - SY
+    - SYR
+    - Syrian Arab Republic
+    - 760
+    - true
+  - - 197
+    - TAIWAN, PROVINCE OF CHINA
+    - TW
+    - TWN
+    - Taiwan
+    - 158
+    - true
+  - - 198
+    - TAJIKISTAN
+    - TJ
+    - TJK
+    - Tajikistan
+    - 762
+    - true
+  - - 199
+    - TANZANIA, UNITED REPUBLIC OF
+    - TZ
+    - TZA
+    - Tanzania, United Republic of
+    - 834
+    - true
+  - - 200
+    - THAILAND
+    - TH
+    - THA
+    - Thailand
+    - 764
+    - true
+  - - 201
+    - TOGO
+    - TG
+    - TGO
+    - Togo
+    - 768
+    - true
+  - - 202
+    - TOKELAU
+    - TK
+    - TKL
+    - Tokelau
+    - 772
+    - true
+  - - 203
+    - TONGA
+    - TO
+    - TON
+    - Tonga
+    - 776
+    - true
+  - - 204
+    - TRINIDAD AND TOBAGO
+    - TT
+    - TTO
+    - Trinidad and Tobago
+    - 780
+    - true
+  - - 205
+    - TUNISIA
+    - TN
+    - TUN
+    - Tunisia
+    - 788
+    - true
+  - - 206
+    - TURKEY
+    - TR
+    - TUR
+    - Turkey
+    - 792
+    - true
+  - - 207
+    - TURKMENISTAN
+    - TM
+    - TKM
+    - Turkmenistan
+    - 795
+    - true
+  - - 208
+    - TURKS AND CAICOS ISLANDS
+    - TC
+    - TCA
+    - Turks and Caicos Islands
+    - 796
+    - true
+  - - 209
+    - TUVALU
+    - TV
+    - TUV
+    - Tuvalu
+    - 798
+    - true
+  - - 210
+    - UGANDA
+    - UG
+    - UGA
+    - Uganda
+    - 800
+    - true
+  - - 211
+    - UKRAINE
+    - UA
+    - UKR
+    - Ukraine
+    - 804
+    - true
+  - - 212
+    - UNITED ARAB EMIRATES
+    - AE
+    - ARE
+    - United Arab Emirates
+    - 784
+    - true
+  - - 213
+    - UNITED KINGDOM
+    - GB
+    - GBR
+    - United Kingdom
+    - 826
+    - true
+  - - 214
+    - UNITED STATES
+    - US
+    - USA
+    - United States
+    - 840
+    - true
+  - - 215
+    - URUGUAY
+    - UY
+    - URY
+    - Uruguay
+    - 858
+    - true
+  - - 216
+    - UZBEKISTAN
+    - UZ
+    - UZB
+    - Uzbekistan
+    - 860
+    - true
+  - - 217
+    - VANUATU
+    - VU
+    - VUT
+    - Vanuatu
+    - 548
+    - true
+  - - 218
+    - VENEZUELA
+    - VE
+    - VEN
+    - Venezuela
+    - 862
+    - true
+  - - 219
+    - VIET NAM
+    - VN
+    - VNM
+    - Viet Nam
+    - 704
+    - true
+  - - 220
+    - VIRGIN ISLANDS, BRITISH
+    - VG
+    - VGB
+    - Virgin Islands, British
+    - 92
+    - true
+  - - 221
+    - VIRGIN ISLANDS, U.S.
+    - VI
+    - VIR
+    - Virgin Islands, U.S.
+    - 850
+    - true
+  - - 222
+    - WALLIS AND FUTUNA
+    - WF
+    - WLF
+    - Wallis and Futuna
+    - 876
+    - true
+  - - 223
+    - WESTERN SAHARA
+    - EH
+    - ESH
+    - Western Sahara
+    - 732
+    - true
+  - - 224
+    - YEMEN
+    - YE
+    - YEM
+    - Yemen
+    - 887
+    - true
+  - - 225
+    - ZAMBIA
+    - ZM
+    - ZMB
+    - Zambia
+    - 894
+    - true
+  - - 226
+    - ZIMBABWE
+    - ZW
+    - ZWE
+    - Zimbabwe
+    - 716
+    - true
+  - - 998
+    - 
+    - RS
+    - SRB
+    - Serbia
+    - 999
+    - true
+
+---
+spree_line_items:
+  columns:
+  - id
+  - variant_id
+  - order_id
+  - quantity
+  - price
+  - created_at
+  - updated_at
+  - currency
+  records: 
+  - - 1
+    - 1
+    - 8
+    - 1
+    - 112.8
+    - '2013-02-07 23:09:01.068001'
+    - '2013-02-07 23:09:01.068001'
+    - EUR
+
+---
+spree_mail_methods:
+  columns:
+  - id
+  - environment
+  - active
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - development
+    - true
+    - '2013-02-04 19:25:52.824605'
+    - '2013-02-04 19:25:52.824605'
+
+---
+spree_orders:
+  columns:
+  - id
+  - number
+  - item_total
+  - total
+  - state
+  - adjustment_total
+  - user_id
+  - completed_at
+  - bill_address_id
+  - ship_address_id
+  - payment_total
+  - shipping_method_id
+  - shipment_state
+  - payment_state
+  - email
+  - special_instructions
+  - created_at
+  - updated_at
+  - currency
+  - last_ip_address
+  records: 
+  - - 8
+    - R022467515
+    - 112.8
+    - 112.8
+    - cart
+    - 0
+    - 1
+    - 
+    - 
+    - 
+    - 0
+    - 
+    - 
+    - balance_due
+    - admin@lusosaude.pt
+    - 
+    - '2013-02-04 23:37:36.455254'
+    - '2013-02-07 23:09:06.998198'
+    - EUR
+    - 127.0.0.1
+
+---
+spree_product_properties:
+  columns:
+  - id
+  - value
+  - product_id
+  - property_id
+  - created_at
+  - updated_at
+  - position
+  records: 
+  - - 2
+    - 180 comprimidos vegetais
+    - 1
+    - 1
+    - '2013-02-07 12:56:47.266466'
+    - '2013-02-07 12:56:47.266466'
+    - 0
+  - - 4
+    - 230 gr
+    - 1
+    - 6
+    - '2013-02-07 23:00:49.092126'
+    - '2013-02-08 17:44:54.003119'
+    - 0
+  - - 5
+    - 110 gr
+    - 15
+    - 6
+    - '2013-02-08 17:12:31.525529'
+    - '2013-02-08 17:12:31.525529'
+    - 0
+  - - 6
+    - 60 comp.
+    - 15
+    - 1
+    - '2013-02-08 17:12:53.254495'
+    - '2013-02-08 17:12:53.254495'
+    - 0
+  - - 7
+    - FoodScience
+    - 15
+    - 7
+    - '2013-02-08 17:16:32.801434'
+    - '2013-02-08 17:16:32.801434'
+    - 0
+  - - 8
+    - 1 comprimido, 1 a 2 vezes p/dia
+    - 15
+    - 8
+    - '2013-02-08 17:17:55.425660'
+    - '2013-02-08 17:26:06.834904'
+    - 0
+  - - 9
+    - 1 comprimido,  2 a 3 vezes p/dia
+    - 16
+    - 8
+    - '2013-02-08 17:24:32.541494'
+    - '2013-02-08 17:26:56.911376'
+    - 0
+  - - 10
+    - FoodScience
+    - 16
+    - 7
+    - '2013-02-08 17:24:32.543957'
+    - '2013-02-08 17:24:32.543957'
+    - 0
+  - - 11
+    - 60 comp.
+    - 16
+    - 1
+    - '2013-02-08 17:24:32.545856'
+    - '2013-02-08 17:24:32.545856'
+    - 0
+  - - 12
+    - 160 gr
+    - 16
+    - 6
+    - '2013-02-08 17:24:32.547722'
+    - '2013-02-08 17:24:32.547722'
+    - 0
+  - - 13
+    - 2 comprimidos, 2 a 3 vezes p/dia
+    - 1
+    - 8
+    - '2013-02-08 17:28:25.593812'
+    - '2013-02-08 17:28:25.593812'
+    - 0
+  - - 14
+    - Maitake
+    - 1
+    - 7
+    - '2013-02-08 17:28:25.596282'
+    - '2013-02-08 17:28:25.596282'
+    - 0
+  - - 15
+    - 1/2 c. sopa (7,5ml) entre 1 e 4 vezes p/dia
+    - 17
+    - 8
+    - '2013-02-08 17:36:17.385276'
+    - '2013-02-08 17:36:17.385276'
+    - 0
+  - - 16
+    - FoodScience
+    - 17
+    - 7
+    - '2013-02-08 17:36:17.388984'
+    - '2013-02-08 17:36:17.388984'
+    - 0
+  - - 17
+    - 454 gr
+    - 17
+    - 6
+    - '2013-02-08 17:36:17.391010'
+    - '2013-02-08 17:36:17.391010'
+    - 0
+  - - 18
+    - 360 ml
+    - 17
+    - 1
+    - '2013-02-08 17:36:17.392911'
+    - '2013-02-08 17:36:17.392911'
+    - 0
+  - - 19
+    - 2 comprimidos, 2 vezes p/dia
+    - 2
+    - 8
+    - '2013-02-08 17:43:30.174047'
+    - '2013-02-08 17:43:30.174047'
+    - 0
+  - - 20
+    - Maitake
+    - 2
+    - 7
+    - '2013-02-08 17:43:30.176531'
+    - '2013-02-08 17:43:30.176531'
+    - 0
+  - - 21
+    - 340 gr
+    - 2
+    - 6
+    - '2013-02-08 17:43:30.178394'
+    - '2013-02-08 17:43:30.178394'
+    - 0
+  - - 22
+    - 120 comprimidos
+    - 2
+    - 1
+    - '2013-02-08 17:43:30.180256'
+    - '2013-02-08 17:43:30.180256'
+    - 0
+  - - 23
+    - 3 cápsulas p/dia, 1 a cada refeição
+    - 14
+    - 8
+    - '2013-02-08 17:49:15.677495'
+    - '2013-02-08 17:49:46.858798'
+    - 0
+  - - 24
+    - FoodScience
+    - 14
+    - 7
+    - '2013-02-08 17:49:15.680042'
+    - '2013-02-08 17:49:15.680042'
+    - 0
+  - - 25
+    - 245 gr
+    - 14
+    - 6
+    - '2013-02-08 17:49:15.681919'
+    - '2013-02-08 17:49:15.681919'
+    - 0
+  - - 26
+    - 90 cápsulas
+    - 14
+    - 1
+    - '2013-02-08 17:49:15.683772'
+    - '2013-02-08 17:49:46.860899'
+    - 0
+  - - 27
+    - ver descrição
+    - 20
+    - 8
+    - '2013-02-08 17:52:50.079033'
+    - '2013-02-08 17:52:50.079033'
+    - 0
+  - - 28
+    - FoodScience
+    - 20
+    - 7
+    - '2013-02-08 17:52:50.081513'
+    - '2013-02-08 17:52:50.081513'
+    - 0
+  - - 29
+    - 60 ml
+    - 20
+    - 1
+    - '2013-02-08 17:52:50.083411'
+    - '2013-02-08 17:52:50.083411'
+    - 0
+  - - 30
+    - 140 gr
+    - 20
+    - 6
+    - '2013-02-08 17:52:50.085313'
+    - '2013-02-08 17:52:50.085313'
+    - 0
+  - - 31
+    - ''
+    - 13
+    - 8
+    - '2013-02-08 18:02:30.747019'
+    - '2013-02-08 18:02:30.747019'
+    - 0
+  - - 32
+    - Maitake
+    - 13
+    - 7
+    - '2013-02-08 18:02:30.756212'
+    - '2013-02-08 18:02:30.756212'
+    - 0
+  - - 33
+    - 60 ml
+    - 13
+    - 1
+    - '2013-02-08 18:02:30.758233'
+    - '2013-02-08 18:02:30.758233'
+    - 0
+  - - 34
+    - 3 comprimidos p/dia, entre refeições
+    - 18
+    - 8
+    - '2013-02-08 18:34:59.140310'
+    - '2013-02-08 18:34:59.140310'
+    - 0
+  - - 35
+    - FoodScience
+    - 18
+    - 7
+    - '2013-02-08 18:34:59.142833'
+    - '2013-02-08 18:34:59.142833'
+    - 0
+  - - 36
+    - 160 gr
+    - 18
+    - 6
+    - '2013-02-08 18:34:59.144793'
+    - '2013-02-08 18:34:59.144793'
+    - 0
+  - - 37
+    - 90 cápsulas
+    - 18
+    - 1
+    - '2013-02-08 18:34:59.146717'
+    - '2013-02-08 18:34:59.146717'
+    - 0
+  - - 38
+    - 4 cápsulas p/dia ou 2 cápsulas, 2 vezes p/dia
+    - 3
+    - 8
+    - '2013-02-08 18:40:38.249908'
+    - '2013-02-08 18:40:38.249908'
+    - 0
+  - - 39
+    - Maitake
+    - 3
+    - 7
+    - '2013-02-08 18:40:38.253235'
+    - '2013-02-08 18:40:38.253235'
+    - 0
+  - - 40
+    - 60 gr
+    - 3
+    - 6
+    - '2013-02-08 18:40:38.255402'
+    - '2013-02-08 18:40:38.255402'
+    - 0
+  - - 41
+    - 120 cápsulas
+    - 3
+    - 1
+    - '2013-02-08 18:40:38.257268'
+    - '2013-02-08 18:40:38.257268'
+    - 0
+  - - 42
+    - 6 gotas p/dia
+    - 6
+    - 8
+    - '2013-02-08 18:46:59.614175'
+    - '2013-02-08 18:46:59.614175'
+    - 0
+  - - 43
+    - Maitake
+    - 6
+    - 7
+    - '2013-02-08 18:46:59.616875'
+    - '2013-02-08 18:46:59.616875'
+    - 0
+  - - 44
+    - 145 gr
+    - 6
+    - 6
+    - '2013-02-08 18:46:59.618782'
+    - '2013-02-08 18:46:59.618782'
+    - 0
+  - - 45
+    - 60 ml
+    - 6
+    - 1
+    - '2013-02-08 18:46:59.620723'
+    - '2013-02-08 18:46:59.620723'
+    - 0
+  - - 46
+    - Maitake
+    - 22
+    - 7
+    - '2013-02-08 19:22:10.812869'
+    - '2013-02-08 19:22:10.812869'
+    - 0
+  - - 47
+    - 3 comprimidos, 1 vez p/dia
+    - 22
+    - 7
+    - '2013-02-08 19:22:10.816208'
+    - '2013-02-08 19:22:10.816208'
+    - 0
+  - - 48
+    - 80 gr
+    - 22
+    - 6
+    - '2013-02-08 19:22:10.818056'
+    - '2013-02-08 19:22:10.818056'
+    - 0
+  - - 49
+    - 90 comprimidos
+    - 22
+    - 1
+    - '2013-02-08 19:22:10.819904'
+    - '2013-02-08 19:22:10.819904'
+    - 0
+  - - 50
+    - Maitake
+    - 5
+    - 7
+    - '2013-02-08 19:39:02.941877'
+    - '2013-02-08 19:39:02.941877'
+    - 0
+  - - 51
+    - 2 comprimidos, 2 vezes p/dia
+    - 5
+    - 8
+    - '2013-02-08 19:39:02.945181'
+    - '2013-02-08 19:39:02.945181'
+    - 0
+  - - 52
+    - 120 comprimidos
+    - 5
+    - 1
+    - '2013-02-08 19:39:02.947229'
+    - '2013-02-08 19:39:02.947229'
+    - 0
+  - - 53
+    - 160 gr
+    - 5
+    - 6
+    - '2013-02-08 19:39:02.949161'
+    - '2013-02-08 19:39:02.949161'
+    - 0
+  - - 54
+    - 2 comprimidos, 2 vezes p/dia (entre refeições)
+    - 8
+    - 8
+    - '2013-02-08 22:57:17.878395'
+    - '2013-02-08 22:57:17.878395'
+    - 0
+  - - 55
+    - Maitake
+    - 8
+    - 7
+    - '2013-02-08 22:57:17.880893'
+    - '2013-02-08 22:57:17.880893'
+    - 0
+  - - 56
+    - 180 gr
+    - 8
+    - 6
+    - '2013-02-08 22:57:17.882779'
+    - '2013-02-08 22:57:17.882779'
+    - 0
+  - - 57
+    - 120 comprimidos
+    - 8
+    - 1
+    - '2013-02-08 22:57:17.884633'
+    - '2013-02-08 22:57:17.884633'
+    - 0
+  - - 58
+    - 1 comprimido, 3 vezes p/dia
+    - 19
+    - 8
+    - '2013-02-08 23:06:02.088133'
+    - '2013-02-08 23:06:02.088133'
+    - 0
+  - - 59
+    - FoodScience
+    - 19
+    - 7
+    - '2013-02-08 23:06:02.090781'
+    - '2013-02-08 23:06:02.090781'
+    - 0
+  - - 60
+    - 190 gr
+    - 19
+    - 6
+    - '2013-02-08 23:06:02.092677'
+    - '2013-02-08 23:06:02.092677'
+    - 0
+  - - 61
+    - 90 comprimidos
+    - 19
+    - 1
+    - '2013-02-08 23:06:02.094565'
+    - '2013-02-08 23:06:02.094565'
+    - 0
+  - - 62
+    - FoodScience
+    - 21
+    - 7
+    - '2013-02-08 23:10:03.834124'
+    - '2013-02-08 23:10:03.834124'
+    - 0
+  - - 63
+    - 210 gr
+    - 21
+    - 6
+    - '2013-02-08 23:10:03.836540'
+    - '2013-02-08 23:10:03.836540'
+    - 0
+  - - 64
+    - 5 cápsulas p/dia
+    - 21
+    - 8
+    - '2013-02-08 23:10:03.838414'
+    - '2013-02-08 23:10:03.838414'
+    - 0
+  - - 65
+    - 150 cápsulas
+    - 21
+    - 1
+    - '2013-02-08 23:10:03.840354'
+    - '2013-02-08 23:10:03.840354'
+    - 0
+  - - 66
+    - 2 comprimidos, 2 vezes p/dia
+    - 7
+    - 8
+    - '2013-02-08 23:13:17.079311'
+    - '2013-02-08 23:13:17.079311'
+    - 0
+  - - 67
+    - Maitake
+    - 7
+    - 7
+    - '2013-02-08 23:13:17.081812'
+    - '2013-02-08 23:13:17.081812'
+    - 0
+  - - 68
+    - 160 gr
+    - 7
+    - 6
+    - '2013-02-08 23:13:17.083709'
+    - '2013-02-08 23:13:17.083709'
+    - 0
+  - - 69
+    - 120 comprimidos
+    - 7
+    - 1
+    - '2013-02-08 23:13:17.085575'
+    - '2013-02-08 23:13:17.085575'
+    - 0
+  - - 70
+    - 110 gr
+    - 12
+    - 6
+    - '2013-02-08 23:18:13.086359'
+    - '2013-02-08 23:18:13.086359'
+    - 0
+  - - 71
+    - Maitake
+    - 12
+    - 7
+    - '2013-02-08 23:18:13.088790'
+    - '2013-02-08 23:18:13.088790'
+    - 0
+  - - 72
+    - 4 comprimidos p/dia ou 2 comprimidos, 2 vezes ao dia
+    - 12
+    - 8
+    - '2013-02-08 23:18:13.090611'
+    - '2013-02-08 23:18:13.090611'
+    - 0
+  - - 73
+    - 120 comprimidos
+    - 12
+    - 1
+    - '2013-02-08 23:18:13.092444'
+    - '2013-02-08 23:18:13.092444'
+    - 0
+  - - 74
+    - 4 comprimidos p/dia ou 2 comprimidos, 2 vezes p/dia
+    - 9
+    - 8
+    - '2013-02-08 23:21:33.923478'
+    - '2013-02-08 23:21:33.923478'
+    - 0
+  - - 75
+    - Maitake
+    - 9
+    - 7
+    - '2013-02-08 23:21:33.928792'
+    - '2013-02-08 23:21:33.928792'
+    - 0
+  - - 76
+    - 120 gr
+    - 9
+    - 6
+    - '2013-02-08 23:21:33.930944'
+    - '2013-02-08 23:21:33.930944'
+    - 0
+  - - 77
+    - 120 comprimidos
+    - 9
+    - 1
+    - '2013-02-08 23:21:33.932856'
+    - '2013-02-08 23:21:33.932856'
+    - 0
+  - - 78
+    - 4 comprimidos p/dia ou 2 comprimidos, 2 vezes p/dia
+    - 10
+    - 8
+    - '2013-02-08 23:26:06.668427'
+    - '2013-02-08 23:26:06.668427'
+    - 0
+  - - 79
+    - 120 gr
+    - 10
+    - 6
+    - '2013-02-08 23:26:06.671331'
+    - '2013-02-08 23:26:06.671331'
+    - 0
+  - - 80
+    - Maitake
+    - 10
+    - 7
+    - '2013-02-08 23:26:06.673219'
+    - '2013-02-08 23:26:06.673219'
+    - 0
+  - - 81
+    - 120 comprimidos
+    - 10
+    - 1
+    - '2013-02-08 23:26:06.675086'
+    - '2013-02-08 23:26:06.675086'
+    - 0
+  - - 82
+    - 4 comprimidos p/dia ou 2 comprimidos, 2 vezes p/dia
+    - 11
+    - 8
+    - '2013-02-08 23:29:07.557145'
+    - '2013-02-08 23:29:07.557145'
+    - 0
+  - - 83
+    - Maitake
+    - 11
+    - 7
+    - '2013-02-08 23:29:07.559564'
+    - '2013-02-08 23:29:07.559564'
+    - 0
+  - - 84
+    - 110 gr
+    - 11
+    - 6
+    - '2013-02-08 23:29:07.561388'
+    - '2013-02-08 23:29:07.561388'
+    - 0
+  - - 85
+    - 120 comprimidos
+    - 11
+    - 1
+    - '2013-02-08 23:29:07.563200'
+    - '2013-02-08 23:29:07.563200'
+    - 0
+
+---
+spree_products_taxons:
+  columns:
+  - product_id
+  - taxon_id
+  records: 
+  - - 1
+    - 5
+  - - 1
+    - 23
+  - - 2
+    - 23
+  - - 2
+    - 4
+  - - 3
+    - 23
+  - - 3
+    - 6
+  - - 5
+    - 6
+  - - 5
+    - 23
+  - - 6
+    - 23
+  - - 6
+    - 6
+  - - 7
+    - 23
+  - - 7
+    - 12
+  - - 8
+    - 23
+  - - 8
+    - 6
+  - - 9
+    - 23
+  - - 9
+    - 6
+  - - 10
+    - 23
+  - - 10
+    - 6
+  - - 11
+    - 23
+  - - 11
+    - 6
+  - - 12
+    - 23
+  - - 12
+    - 6
+  - - 13
+    - 23
+  - - 13
+    - 27
+  - - 14
+    - 24
+  - - 14
+    - 16
+  - - 15
+    - 24
+  - - 15
+    - 6
+  - - 16
+    - 24
+  - - 16
+    - 8
+  - - 16
+    - 25
+  - - 17
+    - 24
+  - - 17
+    - 15
+  - - 18
+    - 24
+  - - 18
+    - 15
+  - - 19
+    - 24
+  - - 19
+    - 5
+  - - 20
+    - 24
+  - - 20
+    - 6
+  - - 21
+    - 24
+  - - 21
+    - 18
+  - - 22
+    - 6
+  - - 22
+    - 23
+
+---
+spree_properties:
+  columns:
+  - id
+  - name
+  - presentation
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - PP_quantity
+    - Apresentação
+    - '2013-02-07 12:17:43.803321'
+    - '2013-02-07 12:31:11.943253'
+  - - 6
+    - PP_shipweight
+    - Peso
+    - '2013-02-07 22:54:09.870998'
+    - '2013-02-08 17:14:46.673384'
+  - - 7
+    - PP_supplier
+    - Fornecedor
+    - '2013-02-08 17:13:18.582470'
+    - '2013-02-08 17:13:18.582470'
+  - - 8
+    - PP_serving
+    - Posologia
+    - '2013-02-08 17:14:20.667591'
+    - '2013-02-08 17:14:20.667591'
+
+---
+spree_roles:
+  columns:
+  - id
+  - name
+  records: 
+  - - 1
+    - admin
+  - - 770229923
+    - user
+  - - 930089099
+    - admin
+
+---
+spree_roles_users:
+  columns:
+  - role_id
+  - user_id
+  records: 
+  - - 1
+    - 1
+  - - 1
+    - 1
+
+---
+spree_shipping_categories:
+  columns:
+  - id
+  - name
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Até 250g
+    - '2013-02-04 20:44:49.659185'
+    - '2013-02-04 20:46:51.156271'
+  - - 2
+    - 250g a 500g
+    - '2013-02-04 20:47:08.493945'
+    - '2013-02-04 20:47:08.493945'
+  - - 3
+    - 500g a 1kg
+    - '2013-02-04 20:47:19.775507'
+    - '2013-02-04 20:47:19.775507'
+  - - 4
+    - 1kg a 2kg
+    - '2013-02-04 20:47:31.561401'
+    - '2013-02-04 20:47:31.561401'
+  - - 5
+    - 2kg a 3kg
+    - '2013-02-04 20:47:42.562942'
+    - '2013-02-04 20:47:42.562942'
+  - - 6
+    - 3kg a 4kg
+    - '2013-02-04 20:47:56.860348'
+    - '2013-02-04 20:47:56.860348'
+  - - 7
+    - 4kg a 5kg
+    - '2013-02-04 20:48:07.418371'
+    - '2013-02-04 20:48:07.418371'
+  - - 8
+    - ! ' 5kg a 10kg'
+    - '2013-02-04 20:48:21.989296'
+    - '2013-02-04 20:48:21.989296'
+  - - 9
+    - 10kg a 30kg
+    - '2013-02-04 20:48:34.782823'
+    - '2013-02-04 20:48:34.782823'
+
+---
+spree_shipping_methods:
+  columns:
+  - id
+  - name
+  - zone_id
+  - display_on
+  - shipping_category_id
+  - match_none
+  - match_all
+  - match_one
+  - deleted_at
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - CTT EXPRESSO - 24 HORAS
+    - 3
+    - ''
+    - 1
+    - false
+    - false
+    - false
+    - 
+    - '2013-02-04 20:49:38.392121'
+    - '2013-02-04 20:49:38.392121'
+  - - 2
+    - CTT EXPRESSO - 24 HORAS
+    - 3
+    - ''
+    - 2
+    - false
+    - false
+    - false
+    - 
+    - '2013-02-04 20:52:44.623129'
+    - '2013-02-04 20:52:44.623129'
+
+---
+spree_state_changes:
+  columns:
+  - id
+  - name
+  - previous_state
+  - stateful_id
+  - user_id
+  - stateful_type
+  - next_state
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - payment
+    - 
+    - 8
+    - 1
+    - Spree::Order
+    - balance_due
+    - '2013-02-07 23:09:01.582519'
+    - '2013-02-07 23:09:01.582519'
+  - - 2
+    - shipment
+    - 
+    - 8
+    - 1
+    - Spree::Order
+    - 
+    - '2013-02-07 23:09:01.626195'
+    - '2013-02-07 23:09:01.626195'
+
+---
+spree_states:
+  columns:
+  - id
+  - name
+  - abbr
+  - country_id
+  records: 
+  - - 6764998
+    - District of Columbia
+    - DC
+    - 214
+  - - 17199670
+    - Utah
+    - UT
+    - 214
+  - - 37199952
+    - Louisiana
+    - LA
+    - 214
+  - - 41111624
+    - Virginia
+    - VA
+    - 214
+  - - 51943165
+    - North Dakota
+    - ND
+    - 214
+  - - 66390489
+    - Wyoming
+    - WY
+    - 214
+  - - 69729944
+    - New Mexico
+    - NM
+    - 214
+  - - 69870734
+    - Connecticut
+    - CT
+    - 214
+  - - 91367981
+    - West Virginia
+    - WV
+    - 214
+  - - 103680699
+    - Wisconsin
+    - WI
+    - 214
+  - - 177087202
+    - North Carolina
+    - NC
+    - 214
+  - - 179539703
+    - Nevada
+    - NV
+    - 214
+  - - 199950338
+    - Hawaii
+    - HI
+    - 214
+  - - 248548169
+    - Oklahoma
+    - OK
+    - 214
+  - - 267271847
+    - Florida
+    - FL
+    - 214
+  - - 276110813
+    - California
+    - CA
+    - 214
+  - - 298914262
+    - Oregon
+    - OR
+    - 214
+  - - 308473843
+    - Kentucky
+    - KY
+    - 214
+  - - 385551075
+    - Massachusetts
+    - MA
+    - 214
+  - - 403740659
+    - Alaska
+    - AK
+    - 214
+  - - 414569975
+    - Washington
+    - WA
+    - 214
+  - - 426832442
+    - New Hampshire
+    - NH
+    - 214
+  - - 471470972
+    - Arkansas
+    - AR
+    - 214
+  - - 471711976
+    - Pennsylvania
+    - PA
+    - 214
+  - - 474001862
+    - Rhode Island
+    - RI
+    - 214
+  - - 480368357
+    - Maryland
+    - MD
+    - 214
+  - - 485193526
+    - Ohio
+    - OH
+    - 214
+  - - 525212995
+    - Texas
+    - TX
+    - 214
+  - - 532363768
+    - Mississippi
+    - MS
+    - 214
+  - - 536031023
+    - Colorado
+    - CO
+    - 214
+  - - 597434151
+    - South Carolina
+    - SC
+    - 214
+  - - 615306087
+    - South Dakota
+    - SD
+    - 214
+  - - 625629523
+    - Illinois
+    - IL
+    - 214
+  - - 653576146
+    - Missouri
+    - MO
+    - 214
+  - - 673350891
+    - Nebraska
+    - NE
+    - 214
+  - - 721598219
+    - Delaware
+    - DE
+    - 214
+  - - 726305632
+    - Tennessee
+    - TN
+    - 214
+  - - 750950030
+    - New Jersey
+    - NJ
+    - 214
+  - - 769938586
+    - Indiana
+    - IN
+    - 214
+  - - 825306985
+    - Iowa
+    - IA
+    - 214
+  - - 876916760
+    - Georgia
+    - GA
+    - 214
+  - - 889445952
+    - New York
+    - NY
+    - 214
+  - - 931624400
+    - Michigan
+    - MI
+    - 214
+  - - 948208802
+    - Arizona
+    - AZ
+    - 214
+  - - 969722173
+    - Kansas
+    - KS
+    - 214
+  - - 982433740
+    - Idaho
+    - ID
+    - 214
+  - - 989115415
+    - Vermont
+    - VT
+    - 214
+  - - 999156632
+    - Montana
+    - MT
+    - 214
+  - - 1032288924
+    - Minnesota
+    - MN
+    - 214
+  - - 1055056709
+    - Maine
+    - ME
+    - 214
+  - - 1061493585
+    - Alabama
+    - AL
+    - 214
+  - - 1061493586
+    - Portugal Continental
+    - PT_Continental
+    - 163
+  - - 1061493587
+    - Açores e Madeira
+    - PT_Ilhas
+    - 163
+
+---
+spree_tax_categories:
+  columns:
+  - id
+  - name
+  - description
+  - is_default
+  - deleted_at
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - IVA
+    - IVA
+    - true
+    - 
+    - '2013-02-04 19:26:23.940374'
+    - '2013-02-04 19:26:23.940374'
+
+---
+spree_tax_rates:
+  columns:
+  - id
+  - amount
+  - zone_id
+  - tax_category_id
+  - included_in_price
+  - created_at
+  - updated_at
+  - name
+  - show_rate_in_label
+  records: 
+  - - 1
+    - 0.23
+    - 3
+    - 1
+    - true
+    - '2013-02-04 19:38:54.423992'
+    - '2013-02-07 23:10:21.860790'
+    - IVA a 23%
+    - false
+  - - 2
+    - 0.22
+    - 4
+    - 1
+    - true
+    - '2013-02-04 19:39:26.926915'
+    - '2013-02-07 23:10:31.204729'
+    - IVA a 22%
+    - true
+
+---
+spree_taxonomies:
+  columns:
+  - id
+  - name
+  - created_at
+  - updated_at
+  - position
+  records: 
+  - - 1
+    - Categoria
+    - '2013-02-04 20:41:20.264765'
+    - '2013-02-04 20:41:20.264765'
+    - 0
+  - - 3
+    - Ingrediente
+    - '2013-02-06 21:08:45.565895'
+    - '2013-02-06 21:08:45.565895'
+    - 0
+  - - 4
+    - Fornecedor
+    - '2013-02-07 23:01:24.311447'
+    - '2013-02-07 23:01:24.311447'
+    - 0
+
+---
+spree_taxons:
+  columns:
+  - id
+  - parent_id
+  - position
+  - name
+  - permalink
+  - taxonomy_id
+  - lft
+  - rgt
+  - icon_file_name
+  - icon_content_type
+  - icon_file_size
+  - icon_updated_at
+  - description
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - 
+    - 0
+    - Categoria
+    - categoria
+    - 1
+    - 1
+    - 38
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 20:41:20.326789'
+    - '2013-02-04 20:41:20.326789'
+  - - 3
+    - 1
+    - 0
+    - Cancro
+    - categoria/10kg-a-30kg
+    - 1
+    - 2
+    - 7
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:34:04.346207'
+    - '2013-02-04 21:34:17.175298'
+  - - 4
+    - 3
+    - 0
+    - Mama
+    - categoria/10kg-a-30kg/mama
+    - 1
+    - 3
+    - 4
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:34:23.755814'
+    - '2013-02-04 21:34:23.755814'
+  - - 5
+    - 1
+    - 1
+    - Cérebro e Memória
+    - categoria/cerebro-e-memoria
+    - 1
+    - 8
+    - 9
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:34:43.059116'
+    - '2013-02-04 21:34:43.059116'
+  - - 6
+    - 1
+    - 2
+    - Sistema Imunitário
+    - categoria/sistema-imunitario
+    - 1
+    - 10
+    - 11
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:34:57.754469'
+    - '2013-02-04 21:34:57.754469'
+  - - 7
+    - 1
+    - 3
+    - Aparelho Circulatório
+    - categoria/new-node
+    - 1
+    - 12
+    - 13
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:35:01.113457'
+    - '2013-02-04 21:35:17.086580'
+  - - 8
+    - 1
+    - 4
+    - Desintoxicantes Hepáticos e Pulmonares
+    - categoria/desintoxicantes-hepaticos-e-pulmonares
+    - 1
+    - 14
+    - 15
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:35:37.125675'
+    - '2013-02-04 21:35:37.125675'
+  - - 9
+    - 1
+    - 5
+    - Alergias
+    - categoria/alergias
+    - 1
+    - 16
+    - 17
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:36:10.585201'
+    - '2013-02-04 21:36:10.585201'
+  - - 10
+    - 1
+    - 6
+    - Defesas Inflamatórias
+    - categoria/defesas-inflamatorias
+    - 1
+    - 18
+    - 19
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:36:23.358411'
+    - '2013-02-04 21:36:23.358411'
+  - - 11
+    - 1
+    - 7
+    - Diabetes
+    - categoria/diabetes
+    - 1
+    - 20
+    - 21
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:36:30.350881'
+    - '2013-02-04 21:36:30.350881'
+  - - 12
+    - 1
+    - 8
+    - Próstata
+    - categoria/prostata
+    - 1
+    - 22
+    - 23
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:36:35.395642'
+    - '2013-02-04 21:36:35.395642'
+  - - 13
+    - 1
+    - 9
+    - Rins
+    - categoria/rins
+    - 1
+    - 24
+    - 25
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:36:43.666745'
+    - '2013-02-04 21:36:43.666745'
+  - - 14
+    - 1
+    - 10
+    - Função Sexual
+    - categoria/funcao-sexual
+    - 1
+    - 26
+    - 27
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:36:50.085381'
+    - '2013-02-04 21:36:50.085381'
+  - - 15
+    - 1
+    - 11
+    - Depressão e Stress
+    - categoria/depressao-e-stress
+    - 1
+    - 28
+    - 29
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:37:00.528425'
+    - '2013-02-04 21:37:00.528425'
+  - - 16
+    - 1
+    - 12
+    - Coração e Colestrol
+    - categoria/coracao-e-colestrol
+    - 1
+    - 30
+    - 31
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:37:09.922499'
+    - '2013-02-04 21:37:09.922499'
+  - - 17
+    - 1
+    - 13
+    - Relaxamento Muscular
+    - categoria/relaxamento-muscular
+    - 1
+    - 32
+    - 33
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:37:18.866176'
+    - '2013-02-04 21:37:18.866176'
+  - - 18
+    - 1
+    - 14
+    - Osteoporose
+    - categoria/osteoporose
+    - 1
+    - 34
+    - 35
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 21:37:28.190773'
+    - '2013-02-04 21:37:28.190773'
+  - - 21
+    - 
+    - 0
+    - Ingrediente
+    - ingrediente
+    - 3
+    - 39
+    - 40
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-06 21:08:45.825236'
+    - '2013-02-06 21:08:45.825236'
+  - - 22
+    - 
+    - 0
+    - Fornecedor
+    - fornecedor
+    - 4
+    - 41
+    - 46
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-07 23:01:24.326899'
+    - '2013-02-07 23:01:24.326899'
+  - - 23
+    - 22
+    - 0
+    - Maitake
+    - fornecedor/maitake
+    - 4
+    - 42
+    - 43
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-07 23:01:32.417347'
+    - '2013-02-08 14:57:49.173073'
+  - - 24
+    - 22
+    - 1
+    - FoodScience
+    - fornecedor/foddscience
+    - 4
+    - 44
+    - 45
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-07 23:01:40.019421'
+    - '2013-02-07 23:01:46.448673'
+  - - 25
+    - 1
+    - 15
+    - Aparelho Respiratório
+    - categoria/aparelho-respiratorio
+    - 1
+    - 36
+    - 37
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-08 17:21:30.195752'
+    - '2013-02-08 17:21:30.195752'
+  - - 27
+    - 3
+    - 1
+    - Animais
+    - categoria/10kg-a-30kg/animais
+    - 1
+    - 5
+    - 6
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-08 18:03:15.572790'
+    - '2013-02-08 18:03:15.572790'
+
+---
+spree_tokenized_permissions:
+  columns:
+  - id
+  - permissable_id
+  - permissable_type
+  - token
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - 1
+    - Spree::Order
+    - 6476ac04fca7329c
+    - '2013-02-04 19:23:30.167518'
+    - '2013-02-04 19:23:30.167518'
+  - - 2
+    - 2
+    - Spree::Order
+    - 13060c3ff9ee4528
+    - '2013-02-04 22:40:46.838932'
+    - '2013-02-04 22:40:46.838932'
+  - - 3
+    - 3
+    - Spree::Order
+    - 424928177e77b37c
+    - '2013-02-04 22:48:02.915122'
+    - '2013-02-04 22:48:02.915122'
+  - - 4
+    - 4
+    - Spree::Order
+    - 7eadd0b74c7325fb
+    - '2013-02-04 22:56:20.421916'
+    - '2013-02-04 22:56:20.421916'
+  - - 5
+    - 5
+    - Spree::Order
+    - df295f0e07ac715c
+    - '2013-02-04 23:01:55.468923'
+    - '2013-02-04 23:01:55.468923'
+  - - 6
+    - 6
+    - Spree::Order
+    - 19e3d9108aaaba4b
+    - '2013-02-04 23:33:57.572147'
+    - '2013-02-04 23:33:57.572147'
+  - - 7
+    - 7
+    - Spree::Order
+    - 20f929bea49e080d
+    - '2013-02-04 23:35:43.199768'
+    - '2013-02-04 23:35:43.199768'
+  - - 8
+    - 8
+    - Spree::Order
+    - 6197d87983d42407
+    - '2013-02-04 23:37:36.516760'
+    - '2013-02-04 23:37:36.516760'
+
+---
+spree_zone_members:
+  columns:
+  - id
+  - zoneable_id
+  - zoneable_type
+  - zone_id
+  - created_at
+  - updated_at
+  records: 
+  - - 4914820
+    - 13
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 5807739
+    - 96
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 35022990
+    - 188
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 91991191
+    - 163
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 120011419
+    - 52
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 120937060
+    - 117
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 244414130
+    - 68
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 394938353
+    - 162
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 423866172
+    - 20
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 424792003
+    - 90
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 477297967
+    - 184
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 506358563
+    - 53
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 507251676
+    - 116
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 546142054
+    - 142
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 690576312
+    - 62
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 691747661
+    - 110
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 729140670
+    - 183
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 739772837
+    - 213
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 776249265
+    - 30
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 777453396
+    - 74
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 807406092
+    - 51
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 808610553
+    - 125
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 847027202
+    - 167
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 890329113
+    - 194
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 929017584
+    - 98
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 966149671
+    - 67
+    - Spree::Country
+    - 1
+    - '2009-06-04 13:22:26.000000'
+    - '2009-06-04 13:22:26.000000'
+  - - 1017582645
+    - 188
+    - Spree::Country
+    - 5
+    - '2013-02-04 19:30:10.337007'
+    - '2013-02-04 19:30:10.337007'
+  - - 1017582648
+    - 1061493586
+    - Spree::State
+    - 3
+    - '2013-02-04 19:37:14.365670'
+    - '2013-02-04 19:37:14.365670'
+  - - 1017582649
+    - 1061493587
+    - Spree::State
+    - 4
+    - '2013-02-04 19:37:36.539564'
+    - '2013-02-04 19:37:36.539564'
+  - - 1017582650
+    - 74
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.684288'
+    - '2013-02-04 19:43:00.684288'
+  - - 1017582651
+    - 13
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.688913'
+    - '2013-02-04 19:43:00.688913'
+  - - 1017582652
+    - 20
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.692960'
+    - '2013-02-04 19:43:00.692960'
+  - - 1017582653
+    - 53
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.697061'
+    - '2013-02-04 19:43:00.697061'
+  - - 1017582654
+    - 188
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.701236'
+    - '2013-02-04 19:43:00.701236'
+  - - 1017582655
+    - 67
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.705030'
+    - '2013-02-04 19:43:00.705030'
+  - - 1017582656
+    - 68
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.709194'
+    - '2013-02-04 19:43:00.709194'
+  - - 1017582657
+    - 213
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.713592'
+    - '2013-02-04 19:43:00.713592'
+  - - 1017582658
+    - 142
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.718181'
+    - '2013-02-04 19:43:00.718181'
+  - - 1017582659
+    - 96
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.722285'
+    - '2013-02-04 19:43:00.722285'
+  - - 1017582660
+    - 98
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.728095'
+    - '2013-02-04 19:43:00.728095'
+  - - 1017582661
+    - 117
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.731955'
+    - '2013-02-04 19:43:00.731955'
+  - - 1017582662
+    - 152
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.735784'
+    - '2013-02-04 19:43:00.735784'
+  - - 1017582663
+    - 194
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.739998'
+    - '2013-02-04 19:43:00.739998'
+  - - 1017582664
+    - 195
+    - Spree::Country
+    - 1
+    - '2013-02-04 19:43:00.743909'
+    - '2013-02-04 19:43:00.743909'
+  - - 1017582665
+    - 2
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.457349'
+    - '2013-02-04 19:54:23.457349'
+  - - 1017582666
+    - 5
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.462236'
+    - '2013-02-04 19:54:23.462236'
+  - - 1017582667
+    - 6
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.466285'
+    - '2013-02-04 19:54:23.466285'
+  - - 1017582668
+    - 10
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.470041'
+    - '2013-02-04 19:54:23.470041'
+  - - 1017582669
+    - 19
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.474575'
+    - '2013-02-04 19:54:23.474575'
+  - - 1017582670
+    - 26
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.478329'
+    - '2013-02-04 19:54:23.478329'
+  - - 1017582671
+    - 30
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.482118'
+    - '2013-02-04 19:54:23.482118'
+  - - 1017582672
+    - 36
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.486361'
+    - '2013-02-04 19:54:23.486361'
+  - - 1017582673
+    - 51
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.490072'
+    - '2013-02-04 19:54:23.490072'
+  - - 1017582674
+    - 49
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.493868'
+    - '2013-02-04 19:54:23.493868'
+  - - 1017582675
+    - 62
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.497559'
+    - '2013-02-04 19:54:23.497559'
+  - - 1017582676
+    - 183
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.501266'
+    - '2013-02-04 19:54:23.501266'
+  - - 1017582677
+    - 184
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.505235'
+    - '2013-02-04 19:54:23.505235'
+  - - 1017582678
+    - 73
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.508940'
+    - '2013-02-04 19:54:23.508940'
+  - - 1017582679
+    - 76
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.512981'
+    - '2013-02-04 19:54:23.512981'
+  - - 1017582680
+    - 77
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.516752'
+    - '2013-02-04 19:54:23.516752'
+  - - 1017582681
+    - 78
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.520755'
+    - '2013-02-04 19:54:23.520755'
+  - - 1017582682
+    - 84
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.524520'
+    - '2013-02-04 19:54:23.524520'
+  - - 1017582683
+    - 90
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.528907'
+    - '2013-02-04 19:54:23.528907'
+  - - 1017582684
+    - 65
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.532636'
+    - '2013-02-04 19:54:23.532636'
+  - - 1017582685
+    - 91
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.536613'
+    - '2013-02-04 19:54:23.536613'
+  - - 1017582686
+    - 110
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.540592'
+    - '2013-02-04 19:54:23.540592'
+  - - 1017582687
+    - 116
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.544741'
+    - '2013-02-04 19:54:23.544741'
+  - - 1017582688
+    - 115
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.548438'
+    - '2013-02-04 19:54:23.548438'
+  - - 1017582689
+    - 119
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.552418'
+    - '2013-02-04 19:54:23.552418'
+  - - 1017582690
+    - 125
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.556120'
+    - '2013-02-04 19:54:23.556120'
+  - - 1017582691
+    - 137
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.559802'
+    - '2013-02-04 19:54:23.559802'
+  - - 1017582692
+    - 132
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.563735'
+    - '2013-02-04 19:54:23.563735'
+  - - 1017582693
+    - 133
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.567421'
+    - '2013-02-04 19:54:23.567421'
+  - - 1017582694
+    - 162
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.571432'
+    - '2013-02-04 19:54:23.571432'
+  - - 1017582695
+    - 52
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.575253'
+    - '2013-02-04 19:54:23.575253'
+  - - 1017582696
+    - 167
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.579009'
+    - '2013-02-04 19:54:23.579009'
+  - - 1017582697
+    - 168
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.582695'
+    - '2013-02-04 19:54:23.582695'
+  - - 1017582698
+    - 177
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.586835'
+    - '2013-02-04 19:54:23.586835'
+  - - 1017582699
+    - 206
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.590528'
+    - '2013-02-04 19:54:23.590528'
+  - - 1017582700
+    - 211
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.875260'
+    - '2013-02-04 19:54:23.875260'
+  - - 1017582701
+    - 87
+    - Spree::Country
+    - 6
+    - '2013-02-04 19:54:23.880264'
+    - '2013-02-04 19:54:23.880264'
+  - - 1017582702
+    - 1
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.155469'
+    - '2013-02-04 20:22:09.155469'
+  - - 1017582703
+    - 187
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.160072'
+    - '2013-02-04 20:22:09.160072'
+  - - 1017582704
+    - 7
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.164365'
+    - '2013-02-04 20:22:09.164365'
+  - - 1017582705
+    - 8
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.170412'
+    - '2013-02-04 20:22:09.170412'
+  - - 1017582706
+    - 143
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.185879'
+    - '2013-02-04 20:22:09.185879'
+  - - 1017582707
+    - 196
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.215143'
+    - '2013-02-04 20:22:09.215143'
+  - - 1017582708
+    - 9
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.231557'
+    - '2013-02-04 20:22:09.231557'
+  - - 1017582709
+    - 11
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.237249'
+    - '2013-02-04 20:22:09.237249'
+  - - 1017582710
+    - 12
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.242486'
+    - '2013-02-04 20:22:09.242486'
+  - - 1017582711
+    - 14
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.246362'
+    - '2013-02-04 20:22:09.246362'
+  - - 1017582712
+    - 15
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.250218'
+    - '2013-02-04 20:22:09.250218'
+  - - 1017582713
+    - 16
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.254252'
+    - '2013-02-04 20:22:09.254252'
+  - - 1017582714
+    - 17
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.258072'
+    - '2013-02-04 20:22:09.258072'
+  - - 1017582715
+    - 18
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.261766'
+    - '2013-02-04 20:22:09.261766'
+  - - 1017582716
+    - 21
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.265497'
+    - '2013-02-04 20:22:09.265497'
+  - - 1017582717
+    - 22
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.269685'
+    - '2013-02-04 20:22:09.269685'
+  - - 1017582718
+    - 23
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.273431'
+    - '2013-02-04 20:22:09.273431'
+  - - 1017582719
+    - 25
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.277153'
+    - '2013-02-04 20:22:09.277153'
+  - - 1017582720
+    - 24
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.280858'
+    - '2013-02-04 20:22:09.280858'
+  - - 1017582721
+    - 27
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.286196'
+    - '2013-02-04 20:22:09.286196'
+  - - 1017582722
+    - 28
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.289970'
+    - '2013-02-04 20:22:09.289970'
+  - - 1017582723
+    - 29
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.293708'
+    - '2013-02-04 20:22:09.293708'
+  - - 1017582724
+    - 31
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.301886'
+    - '2013-02-04 20:22:09.301886'
+  - - 1017582725
+    - 32
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.305779'
+    - '2013-02-04 20:22:09.305779'
+  - - 1017582726
+    - 34
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.309500'
+    - '2013-02-04 20:22:09.309500'
+  - - 1017582727
+    - 33
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.313521'
+    - '2013-02-04 20:22:09.313521'
+  - - 1017582728
+    - 35
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.317708'
+    - '2013-02-04 20:22:09.317708'
+  - - 1017582729
+    - 37
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.321449'
+    - '2013-02-04 20:22:09.321449'
+  - - 1017582730
+    - 102
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.470562'
+    - '2013-02-04 20:22:09.470562'
+  - - 1017582731
+    - 39
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.474617'
+    - '2013-02-04 20:22:09.474617'
+  - - 1017582732
+    - 38
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.479051'
+    - '2013-02-04 20:22:09.479051'
+  - - 1017582733
+    - 40
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.482955'
+    - '2013-02-04 20:22:09.482955'
+  - - 1017582734
+    - 42
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.486713'
+    - '2013-02-04 20:22:09.486713'
+  - - 1017582735
+    - 43
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.490679'
+    - '2013-02-04 20:22:09.490679'
+  - - 1017582736
+    - 44
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.496705'
+    - '2013-02-04 20:22:09.496705'
+  - - 1017582737
+    - 45
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.500521'
+    - '2013-02-04 20:22:09.500521'
+  - - 1017582738
+    - 46
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.505579'
+    - '2013-02-04 20:22:09.505579'
+  - - 1017582739
+    - 48
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.509648'
+    - '2013-02-04 20:22:09.509648'
+  - - 1017582740
+    - 47
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.513874'
+    - '2013-02-04 20:22:09.513874'
+  - - 1017582741
+    - 105
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.517714'
+    - '2013-02-04 20:22:09.517714'
+  - - 1017582742
+    - 106
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.521521'
+    - '2013-02-04 20:22:09.521521'
+  - - 1017582743
+    - 41
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.525794'
+    - '2013-02-04 20:22:09.525794'
+  - - 1017582744
+    - 50
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.529890'
+    - '2013-02-04 20:22:09.529890'
+  - - 1017582745
+    - 54
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.533804'
+    - '2013-02-04 20:22:09.533804'
+  - - 1017582746
+    - 55
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.537990'
+    - '2013-02-04 20:22:09.537990'
+  - - 1017582747
+    - 56
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.546304'
+    - '2013-02-04 20:22:09.546304'
+  - - 1017582748
+    - 58
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.550284'
+    - '2013-02-04 20:22:09.550284'
+  - - 1017582749
+    - 59
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.554250'
+    - '2013-02-04 20:22:09.554250'
+  - - 1017582750
+    - 212
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.558311'
+    - '2013-02-04 20:22:09.558311'
+  - - 1017582751
+    - 57
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.562110'
+    - '2013-02-04 20:22:09.562110'
+  - - 1017582752
+    - 61
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.569740'
+    - '2013-02-04 20:22:09.569740'
+  - - 1017582753
+    - 214
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.573644'
+    - '2013-02-04 20:22:09.573644'
+  - - 1017582754
+    - 63
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.577776'
+    - '2013-02-04 20:22:09.577776'
+  - - 1017582755
+    - 64
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.581653'
+    - '2013-02-04 20:22:09.581653'
+  - - 1017582756
+    - 66
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.585426'
+    - '2013-02-04 20:22:09.585426'
+  - - 1017582757
+    - 160
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.589304'
+    - '2013-02-04 20:22:09.589304'
+  - - 1017582758
+    - 71
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.593462'
+    - '2013-02-04 20:22:09.593462'
+  - - 1017582759
+    - 72
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.601041'
+    - '2013-02-04 20:22:09.601041'
+  - - 1017582760
+    - 75
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.605134'
+    - '2013-02-04 20:22:09.605134'
+  - - 1017582761
+    - 79
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.609235'
+    - '2013-02-04 20:22:09.609235'
+  - - 1017582762
+    - 80
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.613134'
+    - '2013-02-04 20:22:09.613134'
+  - - 1017582763
+    - 82
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.617232'
+    - '2013-02-04 20:22:09.617232'
+  - - 1017582764
+    - 69
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.621148'
+    - '2013-02-04 20:22:09.621148'
+  - - 1017582765
+    - 85
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.625266'
+    - '2013-02-04 20:22:09.625266'
+  - - 1017582766
+    - 60
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.629699'
+    - '2013-02-04 20:22:09.629699'
+  - - 1017582767
+    - 83
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.633872'
+    - '2013-02-04 20:22:09.633872'
+  - - 1017582768
+    - 86
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.637856'
+    - '2013-02-04 20:22:09.637856'
+  - - 1017582769
+    - 88
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.642007'
+    - '2013-02-04 20:22:09.642007'
+  - - 1017582770
+    - 89
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.645803'
+    - '2013-02-04 20:22:09.645803'
+  - - 1017582771
+    - 92
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.649569'
+    - '2013-02-04 20:22:09.649569'
+  - - 1017582772
+    - 93
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.653469'
+    - '2013-02-04 20:22:09.653469'
+  - - 1017582773
+    - 94
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.657544'
+    - '2013-02-04 20:22:09.657544'
+  - - 1017582774
+    - 95
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.661421'
+    - '2013-02-04 20:22:09.661421'
+  - - 1017582775
+    - 97
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.665182'
+    - '2013-02-04 20:22:09.665182'
+  - - 1017582776
+    - 99
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.668934'
+    - '2013-02-04 20:22:09.668934'
+  - - 1017582777
+    - 100
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.673176'
+    - '2013-02-04 20:22:09.673176'
+  - - 1017582778
+    - 101
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.676899'
+    - '2013-02-04 20:22:09.676899'
+  - - 1017582779
+    - 104
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.680626'
+    - '2013-02-04 20:22:09.680626'
+  - - 1017582780
+    - 107
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.684336'
+    - '2013-02-04 20:22:09.684336'
+  - - 1017582781
+    - 110
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.688629'
+    - '2013-02-04 20:22:09.688629'
+  - - 1017582782
+    - 109
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.692484'
+    - '2013-02-04 20:22:09.692484'
+  - - 1017582783
+    - 112
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.696249'
+    - '2013-02-04 20:22:09.696249'
+  - - 1017582784
+    - 111
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.700015'
+    - '2013-02-04 20:22:09.700015'
+  - - 1017582785
+    - 113
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.705080'
+    - '2013-02-04 20:22:09.705080'
+  - - 1017582786
+    - 114
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.708879'
+    - '2013-02-04 20:22:09.708879'
+  - - 1017582787
+    - 118
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.712721'
+    - '2013-02-04 20:22:09.712721'
+  - - 1017582788
+    - 120
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.717087'
+    - '2013-02-04 20:22:09.717087'
+  - - 1017582789
+    - 121
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.722268'
+    - '2013-02-04 20:22:09.722268'
+  - - 1017582790
+    - 122
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.726003'
+    - '2013-02-04 20:22:09.726003'
+  - - 1017582791
+    - 123
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.729830'
+    - '2013-02-04 20:22:09.729830'
+  - - 1017582792
+    - 124
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.733920'
+    - '2013-02-04 20:22:09.733920'
+  - - 1017582793
+    - 136
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.741940'
+    - '2013-02-04 20:22:09.741940'
+  - - 1017582794
+    - 127
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.749288'
+    - '2013-02-04 20:22:09.749288'
+  - - 1017582795
+    - 129
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.753079'
+    - '2013-02-04 20:22:09.753079'
+  - - 1017582796
+    - 128
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.757109'
+    - '2013-02-04 20:22:09.757109'
+  - - 1017582797
+    - 130
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.760814'
+    - '2013-02-04 20:22:09.760814'
+  - - 1017582798
+    - 134
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.764521'
+    - '2013-02-04 20:22:09.764521'
+  - - 1017582799
+    - 135
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.768241'
+    - '2013-02-04 20:22:09.768241'
+  - - 1017582800
+    - 138
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.772284'
+    - '2013-02-04 20:22:09.772284'
+  - - 1017582801
+    - 139
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.779665'
+    - '2013-02-04 20:22:09.779665'
+  - - 1017582802
+    - 140
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.783417'
+    - '2013-02-04 20:22:09.783417'
+  - - 1017582803
+    - 141
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.787395'
+    - '2013-02-04 20:22:09.787395'
+  - - 1017582804
+    - 146
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.791105'
+    - '2013-02-04 20:22:09.791105'
+  - - 1017582805
+    - 147
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.794942'
+    - '2013-02-04 20:22:09.794942'
+  - - 1017582806
+    - 148
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:22:09.798643'
+    - '2013-02-04 20:22:09.798643'
+  - - 1017582807
+    - 144
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.712459'
+    - '2013-02-04 20:28:42.712459'
+  - - 1017582808
+    - 145
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.717549'
+    - '2013-02-04 20:28:42.717549'
+  - - 1017582809
+    - 153
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.726283'
+    - '2013-02-04 20:28:42.726283'
+  - - 1017582810
+    - 156
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.730151'
+    - '2013-02-04 20:28:42.730151'
+  - - 1017582811
+    - 157
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.734359'
+    - '2013-02-04 20:28:42.734359'
+  - - 1017582812
+    - 154
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.738737'
+    - '2013-02-04 20:28:42.738737'
+  - - 1017582813
+    - 158
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.742460'
+    - '2013-02-04 20:28:42.742460'
+  - - 1017582814
+    - 159
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.748086'
+    - '2013-02-04 20:28:42.748086'
+  - - 1017582815
+    - 161
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.751938'
+    - '2013-02-04 20:28:42.751938'
+  - - 1017582816
+    - 70
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.755730'
+    - '2013-02-04 20:28:42.755730'
+  - - 1017582817
+    - 165
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.759413'
+    - '2013-02-04 20:28:42.759413'
+  - - 1017582818
+    - 108
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.763086'
+    - '2013-02-04 20:28:42.763086'
+  - - 1017582819
+    - 103
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.766778'
+    - '2013-02-04 20:28:42.766778'
+  - - 1017582820
+    - 166
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.770487'
+    - '2013-02-04 20:28:42.770487'
+  - - 1017582821
+    - 169
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.774192'
+    - '2013-02-04 20:28:42.774192'
+  - - 1017582822
+    - 171
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.777907'
+    - '2013-02-04 20:28:42.777907'
+  - - 1017582823
+    - 173
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.781903'
+    - '2013-02-04 20:28:42.781903'
+  - - 1017582824
+    - 174
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.785703'
+    - '2013-02-04 20:28:42.785703'
+  - - 1017582825
+    - 185
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.789426'
+    - '2013-02-04 20:28:42.789426'
+  - - 1017582826
+    - 175
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.793101'
+    - '2013-02-04 20:28:42.793101'
+  - - 1017582827
+    - 170
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.802749'
+    - '2013-02-04 20:28:42.802749'
+  - - 1017582828
+    - 172
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.806650'
+    - '2013-02-04 20:28:42.806650'
+  - - 1017582829
+    - 180
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.810793'
+    - '2013-02-04 20:28:42.810793'
+  - - 1017582830
+    - 179
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.818693'
+    - '2013-02-04 20:28:42.818693'
+  - - 1017582831
+    - 181
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.822501'
+    - '2013-02-04 20:28:42.822501'
+  - - 1017582832
+    - 182
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.826206'
+    - '2013-02-04 20:28:42.826206'
+  - - 1017582833
+    - 189
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.829903'
+    - '2013-02-04 20:28:42.829903'
+  - - 1017582834
+    - 196
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:28:42.833580'
+    - '2013-02-04 20:28:42.833580'
+  - - 1017582835
+    - 193
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.250653'
+    - '2013-02-04 20:36:09.250653'
+  - - 1017582836
+    - 190
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.255394'
+    - '2013-02-04 20:36:09.255394'
+  - - 1017582837
+    - 191
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.259505'
+    - '2013-02-04 20:36:09.259505'
+  - - 1017582838
+    - 198
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.264282'
+    - '2013-02-04 20:36:09.264282'
+  - - 1017582839
+    - 197
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.271456'
+    - '2013-02-04 20:36:09.271456'
+  - - 1017582840
+    - 200
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.275305'
+    - '2013-02-04 20:36:09.275305'
+  - - 1017582841
+    - 199
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.279239'
+    - '2013-02-04 20:36:09.279239'
+  - - 1017582842
+    - 201
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.282933'
+    - '2013-02-04 20:36:09.282933'
+  - - 1017582843
+    - 203
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.288075'
+    - '2013-02-04 20:36:09.288075'
+  - - 1017582844
+    - 204
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.292419'
+    - '2013-02-04 20:36:09.292419'
+  - - 1017582845
+    - 208
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.301319'
+    - '2013-02-04 20:36:09.301319'
+  - - 1017582846
+    - 207
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.305357'
+    - '2013-02-04 20:36:09.305357'
+  - - 1017582847
+    - 209
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.309128'
+    - '2013-02-04 20:36:09.309128'
+  - - 1017582848
+    - 205
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.313146'
+    - '2013-02-04 20:36:09.313146'
+  - - 1017582849
+    - 210
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.316833'
+    - '2013-02-04 20:36:09.316833'
+  - - 1017582850
+    - 215
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.320532'
+    - '2013-02-04 20:36:09.320532'
+  - - 1017582851
+    - 216
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.324991'
+    - '2013-02-04 20:36:09.324991'
+  - - 1017582852
+    - 217
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.332323'
+    - '2013-02-04 20:36:09.332323'
+  - - 1017582853
+    - 218
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.336091'
+    - '2013-02-04 20:36:09.336091'
+  - - 1017582854
+    - 219
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.339803'
+    - '2013-02-04 20:36:09.339803'
+  - - 1017582855
+    - 220
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.343538'
+    - '2013-02-04 20:36:09.343538'
+  - - 1017582856
+    - 222
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.347262'
+    - '2013-02-04 20:36:09.347262'
+  - - 1017582857
+    - 224
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.350959'
+    - '2013-02-04 20:36:09.350959'
+  - - 1017582858
+    - 225
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.354679'
+    - '2013-02-04 20:36:09.354679'
+  - - 1017582859
+    - 226
+    - Spree::Country
+    - 7
+    - '2013-02-04 20:36:09.362488'
+    - '2013-02-04 20:36:09.362488'
+
+---
+spree_zones:
+  columns:
+  - id
+  - name
+  - description
+  - default_tax
+  - zone_members_count
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - EU_Zona4
+    - Países da União Europeia - Zona 4
+    - false
+    - 15
+    - '2009-06-04 17:22:26.000000'
+    - '2013-02-04 19:30:40.790331'
+  - - 3
+    - PT_Continental
+    - Portugal Continental
+    - true
+    - 1
+    - '2013-02-04 19:27:14.019301'
+    - '2013-02-04 19:27:14.019301'
+  - - 4
+    - PT_Acores_Madeira
+    - Açores e Madeira
+    - false
+    - 1
+    - '2013-02-04 19:27:57.359945'
+    - '2013-02-04 19:27:57.359945'
+  - - 5
+    - ES
+    - Espanha
+    - false
+    - 1
+    - '2013-02-04 19:29:39.271876'
+    - '2013-02-04 19:29:39.271876'
+  - - 6
+    - Outros_Zona5
+    - Outros Países - Zona 5
+    - false
+    - 37
+    - '2013-02-04 19:31:08.306951'
+    - '2013-02-04 19:33:45.954088'
+  - - 7
+    - OUTROS_Zona6
+    - Outros Países - Zona 6
+    - false
+    - 158
+    - '2013-02-04 19:32:04.305658'
+    - '2013-02-04 19:34:16.849869'
+
+---
+spree_preferences:
+  columns:
+  - id
+  - value
+  - key
+  - value_type
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - '40405'
+    - spree/dash_configuration/app_id
+    - string
+    - '2013-02-04 19:23:32.515574'
+    - '2013-02-04 19:23:32.515574'
+  - - 2
+    - 4c0e5faeb4e4ecca738478452d4cd47b
+    - spree/dash_configuration/app_token
+    - string
+    - '2013-02-04 19:23:32.534297'
+    - '2013-02-04 19:23:32.534297'
+  - - 3
+    - '80144'
+    - spree/dash_configuration/site_id
+    - string
+    - '2013-02-04 19:23:32.553616'
+    - '2013-02-04 19:23:32.553616'
+  - - 4
+    - 2e77bc4e3956ce23d3d8c6188a84e9e2
+    - spree/dash_configuration/token
+    - string
+    - '2013-02-04 19:23:32.566608'
+    - '2013-02-04 19:23:32.566608'
+  - - 5
+    - LusoSaúde - Suplementos Naturais
+    - spree/app_configuration/site_name
+    - string
+    - '2013-02-04 19:25:03.289085'
+    - '2013-02-07 14:28:04.912889'
+  - - 6
+    - ''
+    - spree/app_configuration/default_seo_title
+    - string
+    - '2013-02-04 19:25:03.296349'
+    - '2013-02-07 14:28:04.921453'
+  - - 7
+    - lusosaude, produtos naturais, suplementos naturais, saúde, natural
+    - spree/app_configuration/default_meta_keywords
+    - string
+    - '2013-02-04 19:25:03.313149'
+    - '2013-02-07 14:28:04.927538'
+  - - 8
+    - LusoSaúde - Suplementos Naturais
+    - spree/app_configuration/default_meta_description
+    - string
+    - '2013-02-04 19:25:03.320752'
+    - '2013-02-07 14:28:04.933413'
+  - - 9
+    - lusosaude.pt
+    - spree/app_configuration/site_url
+    - string
+    - '2013-02-04 19:25:03.327821'
+    - '2013-02-07 14:28:04.938912'
+  - - 10
+    - t
+    - spree/app_configuration/allow_ssl_in_production
+    - boolean
+    - '2013-02-04 19:25:03.342755'
+    - '2013-02-07 14:28:04.944698'
+  - - 11
+    - t
+    - spree/app_configuration/allow_ssl_in_staging
+    - boolean
+    - '2013-02-04 19:25:03.351011'
+    - '2013-02-07 14:28:04.950102'
+  - - 12
+    - f
+    - spree/app_configuration/allow_ssl_in_development_and_test
+    - boolean
+    - '2013-02-04 19:25:03.357692'
+    - '2013-02-07 14:28:04.955750'
+  - - 13
+    - t
+    - spree/app_configuration/check_for_spree_alerts
+    - boolean
+    - '2013-02-04 19:25:03.365193'
+    - '2013-02-07 14:28:04.961308'
+  - - 14
+    - f
+    - spree/app_configuration/display_currency
+    - boolean
+    - '2013-02-04 19:25:03.371952'
+    - '2013-02-07 14:28:04.967057'
+  - - 15
+    - f
+    - spree/app_configuration/hide_cents
+    - boolean
+    - '2013-02-04 19:25:03.378089'
+    - '2013-02-07 14:28:04.973283'
+  - - 16
+    - EUR
+    - spree/app_configuration/currency
+    - string
+    - '2013-02-04 19:25:03.385666'
+    - '2013-02-07 14:28:04.980893'
+  - - 17
+    - after
+    - spree/app_configuration/currency_symbol_position
+    - string
+    - '2013-02-04 19:25:03.400039'
+    - '2013-02-07 12:50:55.347897'
+  - - 18
+    - t
+    - spree/mail_method/enable_mail_delivery/1
+    - boolean
+    - '2013-02-04 19:25:52.848767'
+    - '2013-02-04 19:25:52.848767'
+  - - 19
+    - info@lusosaude.pt
+    - spree/mail_method/mails_from/1
+    - string
+    - '2013-02-04 19:25:52.859078'
+    - '2013-02-04 19:25:52.859078'
+  - - 20
+    - enviados@lusosaude.pt
+    - spree/mail_method/mail_bcc/1
+    - string
+    - '2013-02-04 19:25:52.878246'
+    - '2013-02-04 19:25:52.878246'
+  - - 21
+    - info@lusosaude.pt
+    - spree/mail_method/intercept_email/1
+    - string
+    - '2013-02-04 19:25:52.888884'
+    - '2013-02-04 19:25:52.888884'
+  - - 22
+    - localhost
+    - spree/mail_method/mail_domain/1
+    - string
+    - '2013-02-04 19:25:52.900884'
+    - '2013-02-04 19:25:52.900884'
+  - - 23
+    - localhost
+    - spree/mail_method/mail_host/1
+    - string
+    - '2013-02-04 19:25:52.915968'
+    - '2013-02-04 19:25:52.915968'
+  - - 24
+    - '25'
+    - spree/mail_method/mail_port/1
+    - integer
+    - '2013-02-04 19:25:52.936208'
+    - '2013-02-04 19:25:52.936208'
+  - - 25
+    - None
+    - spree/mail_method/secure_connection_type/1
+    - string
+    - '2013-02-04 19:25:52.954175'
+    - '2013-02-04 19:25:52.954175'
+  - - 26
+    - none
+    - spree/mail_method/mail_auth_type/1
+    - string
+    - '2013-02-04 19:25:52.971658'
+    - '2013-02-04 19:25:52.971658'
+  - - 27
+    - ''
+    - spree/mail_method/smtp_username/1
+    - string
+    - '2013-02-04 19:25:53.002125'
+    - '2013-02-04 19:25:53.002125'
+  - - 28
+    - ''
+    - spree/mail_method/smtp_password/1
+    - string
+    - '2013-02-04 19:25:53.177203'
+    - '2013-02-04 19:25:53.177203'
+  - - 29
+    - t
+    - spree/app_configuration/shipment_inc_vat
+    - boolean
+    - '2013-02-04 19:39:53.551418'
+    - '2013-02-04 19:39:53.551418'
+  - - 32
+    - '2.75'
+    - spree/calculator/flat_rate/amount/5
+    - decimal
+    - '2013-02-04 20:52:02.909150'
+    - '2013-02-04 20:52:02.909150'
+  - - 33
+    - EUR
+    - spree/calculator/flat_rate/currency/5
+    - string
+    - '2013-02-04 20:52:02.914028'
+    - '2013-02-04 20:52:02.914028'
+  - - 34
+    - '3.0'
+    - spree/calculator/flat_rate/amount/6
+    - decimal
+    - '2013-02-04 20:53:02.994111'
+    - '2013-02-04 20:53:02.994111'
+  - - 35
+    - EUR
+    - spree/calculator/flat_rate/currency/6
+    - string
+    - '2013-02-04 20:53:02.999449'
+    - '2013-02-04 20:53:02.999449'
+
+---
+spree_products:
+  columns:
+  - id
+  - name
+  - description
+  - available_on
+  - deleted_at
+  - permalink
+  - meta_description
+  - meta_keywords
+  - tax_category_id
+  - shipping_category_id
+  - count_on_hand
+  - created_at
+  - updated_at
+  - on_demand
+  records: 
+  - - 1
+    - Amyloban, 180 comp.
+    - ''
+    - '2013-02-04 00:00:00.000000'
+    - 
+    - amyloban-180-comp
+    - amyloban
+    - amyloban
+    - 1
+    - 
+    - 20
+    - '2013-02-04 22:43:21.429625'
+    - '2013-02-08 17:45:07.386475'
+    - false
+  - - 2
+    - Breast-Mate, 120 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - breast-mate-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-07 23:19:19.955483'
+    - '2013-02-08 17:43:30.186119'
+    - false
+  - - 3
+    - Grifron D-Fraction, 120 cáps.
+    - ''
+    - '2013-02-07 00:00:00.000000'
+    - 
+    - grifron-d-fraction-120-caps
+    - ''
+    - ''
+    - 1
+    - 
+    - 2
+    - '2013-02-08 15:00:38.566218'
+    - '2013-02-08 18:40:38.263620'
+    - false
+  - - 5
+    - Grifron TMD-Fraction, 120 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - grifron-tmd-fraction-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 15:04:23.679000'
+    - '2013-02-08 19:39:02.955001'
+    - false
+  - - 6
+    - Grifron Pro D-Fraction, extracto líquido, 60 ml
+    - ''
+    - '2013-02-07 00:00:00.000000'
+    - 
+    - grifron-pro-d-fraction-extracto-liquido-60-ml
+    - ''
+    - ''
+    - 1
+    - 
+    - 2
+    - '2013-02-08 15:06:32.908253'
+    - '2013-02-08 18:46:59.626478'
+    - false
+  - - 7
+    - Prost-Mate, 120 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - prost-mate-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 4
+    - '2013-02-08 15:08:39.406699'
+    - '2013-02-08 23:13:17.091270'
+    - false
+  - - 8
+    - Mushroom Emperors, 120 comp.
+    - ''
+    - '2013-02-07 00:00:00.000000'
+    - 
+    - mushroom-emperors-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 15:10:32.499939'
+    - '2013-02-08 22:57:17.890241'
+    - false
+  - - 9
+    - Super Lion's Mane, 120 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - super-lions-mane-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 15:11:57.751427'
+    - '2013-02-08 23:21:33.939258'
+    - false
+  - - 10
+    - Super Reishi, 120 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - super-reishi-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 15:13:33.876029'
+    - '2013-02-08 23:26:06.681309'
+    - false
+  - - 11
+    - Super Shiitake, 120 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - super-shiitake-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 2
+    - '2013-02-08 15:14:48.890192'
+    - '2013-02-08 23:29:07.568517'
+    - false
+  - - 12
+    - Super Cordyceps, 120 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - super-cordyceps-120-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 15:16:11.056227'
+    - '2013-02-08 23:18:13.098045'
+    - false
+  - - 13
+    - Ext. Líquido Maitake D-Fraction para animais, 60ml
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - ext-liquido-maitake-d-fraction-para-animais-60ml
+    - ''
+    - ''
+    - 1
+    - 
+    - 4
+    - '2013-02-08 15:17:38.552157'
+    - '2013-02-08 18:32:08.770999'
+    - false
+  - - 14
+    - Cholestsafe, 90 cáps.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - cholestsafe-90-caps
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 16:46:35.196426'
+    - '2013-02-08 17:49:46.866756'
+    - false
+  - - 15
+    - Aaangamik-DMG, 60 comp. sub-linguais
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - aaangamik-dmg-60-comp-sub-linguais
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 16:48:27.440300'
+    - '2013-02-08 17:27:11.746826'
+    - false
+  - - 16
+    - Aller-DMG, 60 comp. entéricos
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - aller-dmg-60-comp-entericos
+    - ''
+    - ''
+    - 1
+    - 
+    - 3
+    - '2013-02-08 16:49:51.723007'
+    - '2013-02-08 17:26:56.916903'
+    - false
+  - - 17
+    - Behaviour Balance DMG líquido, 360ml
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - behaviour-balance-dmg-liquido-360ml
+    - ''
+    - ''
+    - 1
+    - 
+    - 5
+    - '2013-02-08 16:51:28.015742'
+    - '2013-02-08 17:36:43.023778'
+    - false
+  - - 18
+    - Fibro-DMG, 90 cáps. entéricas
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - fibro-dmg-90-caps-entericas
+    - ''
+    - ''
+    - 1
+    - 
+    - 5
+    - '2013-02-08 16:53:23.477619'
+    - '2013-02-08 18:34:59.152554'
+    - false
+  - - 19
+    - Neuro-DMG, 90 comp. entéricos
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - neuro-dmg-90-comp-entericos
+    - ''
+    - ''
+    - 1
+    - 
+    - 4
+    - '2013-02-08 16:55:35.734825'
+    - '2013-02-08 23:06:02.100310'
+    - false
+  - - 20
+    - DMG - líquido, 60ml
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - dmg-liquido-60ml
+    - ''
+    - ''
+    - 1
+    - 
+    - 4
+    - '2013-02-08 16:57:17.318870'
+    - '2013-02-08 17:52:50.090934'
+    - false
+  - - 21
+    - Osteoactiv, 150 cáps.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - osteoactiv-150-caps
+    - ''
+    - ''
+    - 1
+    - 
+    - 6
+    - '2013-02-08 16:59:04.053356'
+    - '2013-02-08 23:10:03.846374'
+    - false
+  - - 22
+    - Grifron SX-Fraction, 90 comp.
+    - ''
+    - '2013-02-08 00:00:00.000000'
+    - 
+    - grifron-sx-fraction-90-comp
+    - ''
+    - ''
+    - 1
+    - 
+    - 4
+    - '2013-02-08 19:18:45.415343'
+    - '2013-02-08 19:22:10.826011'
+    - false
+
+---
+spree_variants:
+  columns:
+  - id
+  - sku
+  - weight
+  - height
+  - width
+  - depth
+  - deleted_at
+  - is_master
+  - product_id
+  - count_on_hand
+  - cost_price
+  - position
+  - lock_version
+  - on_demand
+  - cost_currency
+  records: 
+  - - 1
+    - M3399
+    - 230
+    - 10.9
+    - 5.6
+    - 5.6
+    - 
+    - true
+    - 1
+    - 20
+    - 
+    - 
+    - 7
+    - false
+    - EUR
+  - - 2
+    - BM120
+    - 340
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 2
+    - 3
+    - 
+    - 
+    - 4
+    - false
+    - EUR
+  - - 3
+    - GD120
+    - 60
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 3
+    - 2
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 5
+    - TMD120
+    - 160
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 5
+    - 3
+    - 
+    - 
+    - 2
+    - false
+    - EUR
+  - - 6
+    - GPD02
+    - 146
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 6
+    - 2
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 7
+    - PM120
+    - 160
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 7
+    - 4
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 8
+    - ME120
+    - 180
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 8
+    - 3
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 9
+    - WLM120
+    - 120
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 9
+    - 3
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 10
+    - WRS120
+    - 120
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 10
+    - 3
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 11
+    - WSR120
+    - 110
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 11
+    - 2
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 12
+    - WCC120
+    - 110
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 12
+    - 3
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 13
+    - PET60ml
+    - 
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 13
+    - 4
+    - 
+    - 
+    - 2
+    - false
+    - EUR
+  - - 14
+    - FS3170.9
+    - 245
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 14
+    - 3
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 15
+    - FS3380.6
+    - 110
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 15
+    - 3
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 16
+    - FS3413.6
+    - 160
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 16
+    - 3
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 17
+    - FS3414.12
+    - 454
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 17
+    - 5
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 18
+    - FS3417.9
+    - 160
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 18
+    - 5
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 19
+    - FS3419.9
+    - 190
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 19
+    - 4
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 20
+    - FS3592.2
+    - 140
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 20
+    - 4
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 21
+    - FS3751.15
+    - 210
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 21
+    - 6
+    - 
+    - 
+    - 3
+    - false
+    - EUR
+  - - 22
+    - GS090
+    - 80
+    - 
+    - 
+    - 
+    - 
+    - true
+    - 22
+    - 4
+    - 
+    - 
+    - 2
+    - false
+    - EUR
+
+---
+spree_prices:
+  columns:
+  - id
+  - variant_id
+  - amount
+  - currency
+  records: 
+  - - 1
+    - 1
+    - 112.8
+    - EUR
+  - - 2
+    - 2
+    - 81.16
+    - EUR
+  - - 3
+    - 3
+    - 42.62
+    - EUR
+  - - 5
+    - 5
+    - 83.39
+    - EUR
+  - - 6
+    - 6
+    - 110.23
+    - EUR
+  - - 7
+    - 7
+    - 42.62
+    - EUR
+  - - 8
+    - 8
+    - 42.62
+    - EUR
+  - - 9
+    - 9
+    - 42.62
+    - EUR
+  - - 10
+    - 10
+    - 42.62
+    - EUR
+  - - 11
+    - 11
+    - 42.62
+    - EUR
+  - - 12
+    - 12
+    - 56.85
+    - EUR
+  - - 13
+    - 13
+    - 110.23
+    - EUR
+  - - 14
+    - 14
+    - 42.99
+    - EUR
+  - - 15
+    - 15
+    - 26.2
+    - EUR
+  - - 16
+    - 16
+    - 37.61
+    - EUR
+  - - 17
+    - 17
+    - 40.29
+    - EUR
+  - - 18
+    - 18
+    - 60.54
+    - EUR
+  - - 19
+    - 19
+    - 78.98
+    - EUR
+  - - 20
+    - 20
+    - 48.36
+    - EUR
+  - - 21
+    - 21
+    - 43.27
+    - EUR
+  - - 22
+    - 22
+    - 61.41
+    - EUR
+
+---
+spree_payment_methods:
+  columns:
+  - id
+  - type
+  - name
+  - description
+  - active
+  - environment
+  - deleted_at
+  - created_at
+  - updated_at
+  - display_on
+  records: 
+  - - 1
+    - Spree::PaymentMethod::Check
+    - Multibanco
+    - ! "No final da sua encomenda, recebe o nosso número de entidade (11249), a referência
+      (xxx xxx xxx) e o valor a pagar. A encomenda será enviada após recebermos o
+      pagamento. O recebimento é imediato, no momento em que o fizer, nós recebemos.
+      A entidade 11249 tem a designação Hipay.com que é o nosso parceiro deste modo
+      de pagamento. Pode efectuar o pagamento em qualquer caixa automática, via internet
+      ou outro local que aceite este tipo de pagamento.\r\nNo pagamento por multibanco
+      não há lugar a taxa de cobrança de 2,80€."
+    - true
+    - development
+    - 
+    - '2013-02-04 20:39:02.721936'
+    - '2013-02-04 20:39:02.721936'
+    - ''
+  - - 2
+    - Spree::PaymentMethod::Check
+    - Cartão de Crédito
+    - ! "Ao escolher esta forma de pagamento será redirecionado para o site da Redunicre,
+      após o último passo da sua encomenda. Assim que completar o processo de pagamento,
+      automaticamente voltará à nossa página. A Enetural tem instalado o 3DSecure
+      que é o sistema mais seguro e actual utilizado na internet para pagamento com
+      cartões de crédito. Todos os dados colocados no browser são encriptados e não
+      são passíveis de fraude.\r\nNo pagamento com cartão de crédito não há lugar
+      a taxa de cobrança de 2,80€."
+    - true
+    - development
+    - 
+    - '2013-02-04 20:39:26.768840'
+    - '2013-02-04 20:39:26.768840'
+    - ''
+  - - 3
+    - Spree::PaymentMethod::Check
+    - Contra-reembolso
+    - Ao optar pelo pagamento contra-reembolso irá pagar a sua encomenda quando a
+      receber através dos CTT EXPRESSO. O pagamento pode ser feito em dinheiro ou
+      cheque. Nesta forma de pagamento acresce a taxa de cobrança de 2,80€.
+    - true
+    - development
+    - 
+    - '2013-02-04 20:39:52.156406'
+    - '2013-02-04 20:39:52.156406'
+    - ''
+  - - 4
+    - Spree::PaymentMethod::Check
+    - Transferência Bancária
+    - ! "Pode optar pelo pagamento por transferência bancária. Os elementos necessários
+      para efectuar a transferência são:\r\n\r\nBanco: Millennium BCP \r\nTitular:
+      Enetural - Comércio de Produtos Naturais, Lda. \r\nNIB: 0033 0000 45271491577
+      05 \r\nIBAN: PT50 0033 0000 4527 1491 5770 5\r\nBIC/SWIFT: BCOMPTPL\r\n\r\nSugerimos
+      que, se for possível, coloque na descrição do movimento, o número da encomenda.
+      Os custos com a ordem de transferência serão da conta do cliente.\r\nNo pagamento
+      por transferência bancária não há lugar a taxa de cobrança de 2,80€.\r\n"
+    - true
+    - development
+    - 
+    - '2013-02-04 20:40:23.151273'
+    - '2013-02-04 20:40:23.151273'
+    - ''
+  - - 5
+    - Spree::PaymentMethod::Check
+    - Paypal
+    - ! "O método de pagamento universal dos pagamentos online. Seguro e rápido. No
+      final da encomenda é redirecionado para o site do Paypal, onde, atrávés da sua
+      conta de Paypal pode seguramente fazer o seu pagamento. Assim que completar
+      o processo de pagamento, automaticamente voltará à nossa página.\r\nNo pagamento
+      por paypal não há lugar a taxa de cobrança de 2,80€.\r\n\r\nPara fora do país
+      aceitamos Cartão de Crédito e Paypal."
+    - true
+    - development
+    - 
+    - '2013-02-04 20:40:59.292792'
+    - '2013-02-04 20:40:59.292792'
+    - ''
+
+---
+spree_adjustments:
+  columns:
+  - id
+  - source_id
+  - source_type
+  - adjustable_id
+  - adjustable_type
+  - originator_id
+  - originator_type
+  - amount
+  - label
+  - mandatory
+  - eligible
+  - created_at
+  - updated_at
+  - state
+  records: 
+  - - 1
+    - 1
+    - Spree::LineItem
+    - 1
+    - Spree::LineItem
+    - 1
+    - Spree::TaxRate
+    - 21.09
+    - IVA_23 23.0%
+    - false
+    - true
+    - '2013-02-07 23:09:01.521524'
+    - '2013-02-07 23:09:01.521524'
+    - 
+
+---
+spree_users:
+  columns:
+  - id
+  - encrypted_password
+  - password_salt
+  - email
+  - remember_token
+  - persistence_token
+  - reset_password_token
+  - perishable_token
+  - sign_in_count
+  - failed_attempts
+  - last_request_at
+  - current_sign_in_at
+  - last_sign_in_at
+  - current_sign_in_ip
+  - last_sign_in_ip
+  - login
+  - ship_address_id
+  - bill_address_id
+  - authentication_token
+  - unlock_token
+  - locked_at
+  - reset_password_sent_at
+  - created_at
+  - updated_at
+  - spree_api_key
+  - remember_created_at
+  records: 
+  - - 1
+    - 4a26abb0b54df3a0153094f13410d924cecc4197db5dea3eeaaf2d00ff1260460b726725ffb0f9d56cf36ce7f18162886dd8efbec332957e14da5fe71ec23608
+    - v93jWezTtSJBzqACdsjv
+    - admin@lusosaude.pt
+    - eMu3yy95cIh__ikjFzCO
+    - 
+    - 
+    - 
+    - 7
+    - 0
+    - 
+    - '2013-02-08 14:49:27.536717'
+    - '2013-02-08 14:14:02.875339'
+    - 127.0.0.1
+    - 127.0.0.1
+    - admin@lusosaude.pt
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2013-02-04 19:20:51.600430'
+    - '2013-02-08 14:49:27.541568'
+    - 
+    - '2013-02-04 19:23:29.864079'

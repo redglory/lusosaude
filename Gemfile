@@ -29,12 +29,16 @@ gem 'spree', :git => 'git://github.com/spree/spree.git', :branch => '1-3-stable'
 # Authentication with Devise
 gem 'spree_auth_devise', :git => 'git://github.com/spree/spree_auth_devise'
 
+# I18n
+gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
+
+# DB to YAML
+gem 'yaml_db'
+
 # Theme
 #gem 'spree_rdr_theme', :git => 'git://github.com/spree/spree_rdr_theme.git'
 #gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
-
-# I18n
-gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
+#gem 'spree_blue_theme', :git => 'git://github.com/knservis/spree_blue_theme.git'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
