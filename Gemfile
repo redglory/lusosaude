@@ -40,6 +40,9 @@ gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
 # DB to YAML
 gem 'yaml_db'
 
+# Trackman - Offline pages
+gem 'trackman'
+
 # Theme
 #gem 'spree_rdr_theme', :git => 'git://github.com/spree/spree_rdr_theme.git'
 #gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git'
