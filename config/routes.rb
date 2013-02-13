@@ -1,5 +1,13 @@
 Lusosaude::Application.routes.draw do
 
+  match "Maintenance/503-error", :to => "maintenance#maintenance_error"
+
+  match "Maintenance/503", :to => "maintenance#maintenance"
+
+  match "Maintenance/500", :to => "maintenance#error"
+
+  match "Maintenance/404", :to => "maintenance#not_found"
+
   # This line mounts Spree's routes at the root of your application.
   # This means, any requests to URLs such as /products, will go to Spree::ProductsController.
   # If you would like to change where this engine is mounted, simply change the :at option to something different.
